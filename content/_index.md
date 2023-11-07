@@ -16,10 +16,10 @@ sections:
     content:
       title: 🔥 Latest News
       text: |-
-        - **[10/2023]**  Our work <a href=''>*PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles*</a> was submitted to **IEEE JSAC**
-        - **[09/14/2021]** Our work <a href='http://arxiv.org/abs/2310.00013'>*Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving*</a> was submitted to **IEEE ICRA 2024**.
+        - **[10/2023]**  The paper <a href=''>*PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles*</a> was submitted to **IEEE JSAC**
+        - **[09/14/2021]** The paper <a href='http://arxiv.org/abs/2310.00013'>*Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving*</a> was submitted to **IEEE ICRA 2024**.
         - **[07/31/2023]** 🎉 Congratulations to Senkang, finally move to Hong Kong 🇭🇰🇭🇰🇭🇰 to start his new career!
-        - **[06/2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'>InnoHK funding</a> (Nearly a million Hong Kong dollars) from the Government of the Hong Kong Special Administrative Region to support his research and PhD career.
+        - **[06/2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'>InnoHK Funding</a> (Nearly a million Hong Kong dollars) from the Government of the Hong Kong Special Administrative Region to support his research and PhD career.
         - **[06/24/2022]** Senkang graduated from Beijing Institute of Technology. Thanks for all professors and friends who helped him in the past four years.
         - **[12/31/2021]** Senkang got the **National Scholarship** with his excellent academic performance (Top 1% in the whole department), which is the highest honor for chinese unversity students.
     design:
