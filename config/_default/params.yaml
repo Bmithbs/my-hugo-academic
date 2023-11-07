@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 1950s
   theme_night: minimal
-  font: Native
-  font_size: L
+  font: Native  # Cyberpunk # Minimal # Classic # Rose # Native
+  font_size: l
 
 # SEO
 
@@ -35,17 +35,17 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    # show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    # show_search: true
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    # notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -96,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 

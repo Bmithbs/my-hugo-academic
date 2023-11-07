@@ -10,8 +10,9 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: HSK
+      username: admin
   - block: markdown
+    id: news
     content:
       title: 🔥 Latest News
       text: |-
@@ -24,6 +25,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: 💫 Publications
       text: |-
@@ -38,8 +40,9 @@ sections:
       columns: '2'
       view: citation
   - block: experience
+    id: experience
     content:
-      title: 🚀 Experience
+      title: 🚀 Experiences
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -74,9 +77,10 @@ sections:
       columns: '2'
 
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: '🥇 Awards and Honors'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -115,7 +119,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 📝 Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -201,26 +205,26 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  # - block: contact
-  #   id: contact
-  #   content:
-  #     title: 🏠 Contact
-  #     subtitle:
-  #     text: |-
+  - block: contact
+    id: contact
+    content:
+      title: 🏫 Contact
+      subtitle:
+      text: |-
 
   #   # Contact (add or remove contact options as necessary)
-  #     email: senkanhu@cityu.edu.hk
+      email: senkanhu@cityu.edu.hk
   #     # phone: 888 888 88 88
   #     # appointment_url: 'https://calendly.com'
-  #     address:
-  #       # street: 450 Serra Mall
-  #       city: 83 Tat Chee Avenue
-  #       region: Kowloon, Hong Kong
+      address:
+        # street: 450 Serra Mall
+        city: 83 Tat Chee Avenue
+        region: Kowloon, Hong Kong
         # postcode: '94305'
         # country: 
-      # coordinates:
-      #   latitude: '22.33703'
-      #   longitude: '114.173196'
+      coordinates:
+        latitude: '22.33703'
+        longitude: '114.173196'
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
@@ -249,8 +253,8 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
-    # design:
-    #   columns: '2'
+    design:
+      columns: '2'
   - block: markdown
     content:
       title:
