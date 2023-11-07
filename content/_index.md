@@ -53,7 +53,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Founder & CEO
-          company: <b><span style="color:black">BeyondFuture.AI</span><b>
+          company: <b><span style="color:#0096FF">BeyondFuture.AI</span><b>
           company_url: ''
           company_logo: org-gc
           location: Beijing
@@ -61,7 +61,7 @@ sections:
           date_end: ''
           description: The mission of Beyond Future is to allow people to create their own or others’ digital life
         - title: Quantitative Strategy Intern
-          company: <b><span style="color:black"> Prism Private Equity </span><b>
+          company: <b><span style="color:#0096FF"> Prism Private Equity </span></b>
           company_url: ''
           company_logo: org-x
           location: Beijing
@@ -69,7 +69,7 @@ sections:
           date_end: '2022-12-31'
           description: Responsible for financial data processing, stock data mining, trading strategy research and testing, etc.
         - title: Computer Vision Intern
-          company: <b><span style="color:black"> HAOMO.AI </span><b>
+          company: <b><span style="color:#0096FF"> HAOMO.AI </span></b>
           company_url: ''
           company_logo: org-x
           location: Beijing
@@ -77,7 +77,7 @@ sections:
           date_end: '2022-08-31'
           description: Responsible for the maintenance and iteration of 3D point cloud object detection algorithm, the generalization of 3D object detection algorithm, data cleaning algorithm research, research and experiment of training methods, etc.
         - title: Research Assistant
-          company: <b><span style="color:black"> Chinese Academy of Sciences </span><b>
+          company: <b><span style="color:#0096FF"> Chinese Academy of Sciences </span></b>
           company_url: ''
           company_logo: org-x
           location: Beijing
@@ -91,7 +91,7 @@ sections:
     id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: '🥇 Awards and Honors'
+      title: '🥇 Awards & Honors'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -107,7 +107,7 @@ sections:
           description: 'Nearly a million Hong Kong dollars to support his research and PhD career.'
           organization: The Government of the Hong Kong Special Administrative Region 
           organization_url: 
-          title: <span style="color:black">InnoHK Funding</span> 
+          title: <span style="color:#0096FF">InnoHK Funding</span> 
           url: ''
         - certificate_url: 
           date_end: ''
@@ -115,7 +115,7 @@ sections:
           description: ''
           organization: Ministry of Education of the People's Republic of China
           organization_url: 
-          title: <span style="color:black">National Scholarship</span> 
+          title: <span style="color:#0096FF">National Scholarship</span> 
           url: ''
         - certificate_url: 
           date_end: ''
@@ -123,7 +123,7 @@ sections:
           description: 
           organization: The China Aerospace Science and Technology Corporation
           organization_url: 
-          title: <span style="color:black">CASC Scholarship, *Top 1%*</span>
+          title: <span style="color:#0096FF">CASC Scholarship, *Top 1%*</span>
           url: 
         - certificate_url: 
           date_end: '2021-12-21'
@@ -131,7 +131,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="color:black">First Class Academic Scholarship, *4 times*</span>
+          title: <span style="color:#0096FF">First Class Academic Scholarship, *4 times*</span>
           url: ''
         - certificate_url: 
           date_end: '2021-12-21'
@@ -139,7 +139,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="color:black">Excellent Student of Beijing Institute of Technology, *3 times*</span>
+          title: <span style="color:#0096FF">Excellent Student of Beijing Institute of Technology, *3 times*</span>
           url: ''
         - certificate_url: 
           date_end: ''
@@ -147,7 +147,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="color:black">Model of Scientific Research Innovation, *Top 1%*</span>
+          title: <span style="color:#0096FF">Model of Scientific Research Innovation, *Top 1%*</span>
           url: ''
     design:
       columns: '2'
