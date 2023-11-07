@@ -30,9 +30,9 @@ social:
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/thoureality
-  # - icon: google-scholar  # google scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=dJgRKmwAAAAJ
+  - icon: google-scholar  # google scholar
+    icon_pack: ai
+    link: 
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
     link: https://bmithbs.github.io/
@@ -50,7 +50,7 @@ social:
 interests:
   - Collaborative Perception
   - Connected and Autonomous Vehicles
-  - Autonomous driving security
+  - Autonomous Driving Security
 
 # TODO:这块是自己的教育经历
 education:
