@@ -54,7 +54,7 @@ sections:
       items:
         - title: Founder & CEO
           # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
-          company: Beyond Future.AI
+          company:  Beyond Future.AI
           company_url: ''
           company_logo: org-gc
           location: Beijing
