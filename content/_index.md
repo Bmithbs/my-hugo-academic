@@ -52,27 +52,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: Founder & CEO
           company: <b><span style="color:black">BeyondFuture.AI</span><b>
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Beijing
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: The mission of Beyond Future is to allow people to create their own or others’ digital life
+        - title: Quantitative Strategy Intern
+          company: <b><span style="color:black"> Prism PE Fund </span><b>
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Beijing
+          date_start: '2022-09-01'
+          date_end: '2022-12-31'
+          description: Responsible for financial data processing, stock data mining, trading strategy research and testing, etc.
+        - title: Computer Vision Intern
+          company: <b><span style="color:black"> HAOMO.AI </span><b>
+          company_url: ''
+          company_logo: org-x
+          location: Beijing
+          date_start: '2022-04-01'
+          date_end: '2022-08-31'
+          description: Responsible for the maintenance and iteration of 3D point cloud object detection algorithm, the generalization of 3D object detection algorithm, data cleaning algorithm research, research and experiment of training methods, etc.
+        - title: Research Assistant
+          company: <b><span style="color:black"> Chinese Academy of Sciences </span><b>
+          company_url: ''
+          company_logo: org-x
+          location: Beijing
+          date_start: '2022-03-01'
+          date_end: '2021-10-31'
+          description: Responsible for literature research, the experiment of algorithm, algorithm implementation, etc.
     design:
       columns: '2'
 
@@ -90,59 +101,84 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-06-01'
+          description: 'Nearly a million Hong Kong dollars to support his research and PhD career.'
+          organization: Hong Kong Special Administrative Region Government
+          organization_url: 
+          title: <span style="color:black">InnoHK Funding</span> 
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2021-12-25'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Ministry of Education of the People's Republic of China
+          organization_url: 
+          title: <span style="color:black">National Scholarship</span> 
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2020-10-01'
+          description: 
+          organization: The China Aerospace Science and Technology Corporation
+          organization_url: 
+          title: <span style="color:black">CASC Scholarship, *Top 1%*</span>
+          url: 
+        - certificate_url: 
+          date_end: '2021-12-21'
+          date_start: '2018-09-01'
+          description: ''
+          organization: Beijing Institute of Technology
+          organization_url: 
+          title: <span style="color:black">First Class Academic Scholarship, *4 times*</span>
+          url: ''
+        - certificate_url: 
+          date_end: '2021-12-21'
+          date_start: '2018-09-01'
+          description: ''
+          organization: Beijing Institute of Technology
+          organization_url: 
+          title: <span style="color:black">Excellent Student of Beijing Institute of Technology, *3 times*</span>
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2020-09-01'
+          description: ''
+          organization: Beijing Institute of Technology
+          organization_url: 
+          title: <span style="color:black">Model of Scientific Research Innovation, *Top 1%*</span>
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: 📝 Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+      view: card
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: 📝 Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
