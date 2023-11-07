@@ -52,19 +52,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assistant
+          # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
+          company:  City University of Hong Kong
+          company_url: ''
+          company_logo: cityu
+          location: Hong Kong
+          date_start: '2023-07-01'
+          date_end: ''
+          description: 
         - title: Founder & CEO
           # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
           company:  Beyond Future.AI
           company_url: ''
-          company_logo: org-gc
+          company_logo: bf
           location: Beijing
           date_start: '2023-03-01'
           date_end: ''
-          description: The mission of Beyond Future is to allow people to create their own or others’ digital life
+          description: 
         - title: Quantitative Strategy Intern
           company: Prism Private Equity 
           company_url: ''
-          company_logo: org-x
+          company_logo: prism
           location: Beijing
           date_start: '2022-09-01'
           date_end: '2022-12-31'
@@ -72,7 +81,7 @@ sections:
         - title: Computer Vision Intern
           company:  HAOMO.AI 
           company_url: ''
-          company_logo: org-x
+          company_logo: haomo
           location: Beijing
           date_start: '2022-04-01'
           date_end: '2022-08-31'
@@ -80,7 +89,7 @@ sections:
         - title: Research Assistant
           company: Chinese Academy of Sciences 
           company_url: ''
-          company_logo: org-x
+          company_logo: CAS
           location: Beijing
           date_start: '2021-10-01'
           date_end: '2022-03-31'
@@ -106,7 +115,7 @@ sections:
           date_end: ''
           date_start: '2023-06-01'
           description: 'Nearly a million Hong Kong dollars support his research and PhD career.'
-          organization: The Government of the Hong Kong Special Administrative Region 
+          organization: The Government of the Hong Kong Special Administrative Region
           organization_url: 
           title: <span style="">InnoHK Funding</span> 
           url: ''
