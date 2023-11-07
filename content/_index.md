@@ -57,7 +57,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Beijing
-          date_start: '2021-01-01'
+          date_start: '2023-03-01'
           date_end: ''
           description: The mission of Beyond Future is to allow people to create their own or others’ digital life
         - title: Quantitative Strategy Intern
