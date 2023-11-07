@@ -53,7 +53,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Founder & CEO
-          company: <b><span style="color:#0096FF">BeyondFuture.AI</span><b>
+          company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
           company_url: ''
           company_logo: org-gc
           location: Beijing
