@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 🌏 Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
@@ -19,15 +19,15 @@ sections:
         - **[10/2023]**  Our work <a href=''>*PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles*</a> was submitted to **IEEE JSAC**
         - **[09/14/2021]** Our work <a href='http://arxiv.org/abs/2310.00013'>*Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving*</a> was submitted to **IEEE ICRA 2024**.
         - **[07/31/2023]** 🎉 Congratulations to Senkang, finally move to Hong Kong 🇭🇰🇭🇰🇭🇰 to start his new career!
-        - **[06/2023]** Congratulations 🎉 🎉 , Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'>InnoHK funding</a> (Nearly a million Hong Kong dollars) from Hong Kong SAR Government to support his research and PhD career.
-        - **[06/24/2022]** Senkang graduated from Beijing Institute of Technology with **Hons**.
+        - **[06/2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'>InnoHK funding</a> (Nearly a million Hong Kong dollars) from the Government of the Hong Kong Special Administrative Region to support his research and PhD career.
+        - **[06/24/2022]** Senkang graduated from Beijing Institute of Technology. Thanks for all professors and friends who helped him in the past four years.
         - **[12/31/2021]** Senkang got the **National Scholarship** with his excellent academic performance (Top 1% in the whole department), which is the highest honor for chinese unversity students.
     design:
       columns: '2'
   - block: collection
     id: publications
     content:
-      title: 💫 Publications
+      title: 🎓 Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -61,7 +61,7 @@ sections:
           date_end: ''
           description: The mission of Beyond Future is to allow people to create their own or others’ digital life
         - title: Quantitative Strategy Intern
-          company: <b><span style="color:black"> Prism PE Fund </span><b>
+          company: <b><span style="color:black"> Prism Private Equity </span><b>
           company_url: ''
           company_logo: org-x
           location: Beijing
@@ -81,8 +81,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Beijing
-          date_start: '2022-03-01'
-          date_end: '2021-10-31'
+          date_start: '2021-10-01'
+          date_end: '2022-03-31'
           description: Responsible for literature research, the experiment of algorithm, algorithm implementation, etc.
     design:
       columns: '2'
@@ -105,7 +105,7 @@ sections:
           date_end: ''
           date_start: '2023-06-01'
           description: 'Nearly a million Hong Kong dollars to support his research and PhD career.'
-          organization: Hong Kong Special Administrative Region Government
+          organization: The Government of the Hong Kong Special Administrative Region 
           organization_url: 
           title: <span style="color:black">InnoHK Funding</span> 
           url: ''
