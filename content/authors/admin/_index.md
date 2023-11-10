@@ -36,9 +36,9 @@ social:
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
     link: https://bmithbs.github.io/
-  # - icon: github # github主页
-  #   icon_pack: fab   
-  #   link: https://www.github.com/bmithbs
+  - icon: github # github主页
+    icon_pack: fab   
+    link: https://www.github.com/bmithbs
   # - icon: cv  # 如果要上传CV，将文件发给Senkang
   #   icon_pack: ai
   #   link: files/cv.pdf
