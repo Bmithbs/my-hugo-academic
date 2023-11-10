@@ -157,7 +157,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="">Model of Scientific Research Innovation, *Top 1%*</span>
+          title: <span style="">Example of Scientific Research Innovation, *Top 1%*</span>
           url: ''
     design:
       columns: '2'
