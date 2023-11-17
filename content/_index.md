@@ -246,7 +246,7 @@ sections:
       text: |
 
         # <div style="width: 100%; height: auto;">
-        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nkevw8m6m7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5nkevw8m6m7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
         # </div>
     design:
       columns: '1'
