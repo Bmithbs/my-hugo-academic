@@ -16,9 +16,9 @@ sections:
     content:
       title: 🔥 Latest News
       text: |-
-        - **[Nov. 2023]** The paper <a href='publication/dg-coperception'>*Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving*</a> was submitted to IEEE Transactions on Intelligent Transportation Systems (**TITS**).
-        - **[Oct. 2023]** The paper <a href='publication/pacs'>*PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles*</a> was submitted to **IEEE JSAC**.
-        - **[Sep. 2023]** The paper <a href='publication/adaptive-communication'>*Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving*</a> was submitted to **IEEE ICRA 2024**.
+        - **[Nov. 2023]** The paper <a href='publication/dg-coperception'>Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving</a> was submitted to *IEEE Transactions on Intelligent Transportation Systems (**TITS**)*.
+        - **[Oct. 2023]** The paper <a href='publication/pacs'>PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles</a> was submitted to *IEEE Journal on Selected Areas in Communications (**JSAC**)*.
+        - **[Sep. 2023]** The paper <a href='publication/adaptive-communication'>Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving</a> was submitted to *IEEE International Conference on Robotics and Automation (**ICRA 2024**)*.
         - **[Sep. 2023]** Senkang got the Institutional Research Tuition Grant, nearly 170 thousand Hong Kong dollars.
         - **[Jul. 2023]** 🎉 Congratulations to Senkang, finally move to Hong Kong 🇭🇰🇭🇰🇭🇰 to start his new career!
         - **[Jun. 2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'>InnoHK Funding</a> (Nearly a million Hong Kong dollars) from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
