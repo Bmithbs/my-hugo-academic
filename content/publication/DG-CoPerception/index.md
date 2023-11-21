@@ -1,12 +1,12 @@
 ---
-title: "PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles"
+title: " Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird’s Eye View Segmentation for Connected and Autonomous Driving"
 authors: 
-  - Zhengru Fang
   - admin
-  - Haonan An
-  - Yuang Zhang
-  - Jingjing Wang
-  - Hangcheng Cao
+  - Zhengru Fang
+  # - Haonan An
+  # - Yuang Zhang
+  # - Jingjing Wang
+  # - Hangcheng Cao
   - Xianhao Chen
   - Yuguang Fang
 author_notes:
@@ -29,7 +29,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:  Positioning and sensing are quintessential for ensuring the safety and reliability of autonomous vehicles, where the Bird’s Eye View (BEV) has been employed to accurately capture spatial relationships among vehicles. However, recent advancements have identified inherent limitations with the BEV, particularly the blind spots. Collaborative sensing has emerged as a promising avenue to enhance sensing accuracy, leveraging data fusion from multiple vehicles through wireless channels. While the majority of extant collaborative sensing strategies adopt a fully connected graph predicated on fairness in transmission, these approaches often overlook the varying priorities of individual vehicles, influenced by channel states and sensing redundancy. Therefore, despite notable progress in the domain of collaborative sensing, current methodologies exhibit limitations, especially for data-intensive transmission under restricted channel capacity. To address these challenges, we introduce a novel Priority-Aware Collaborative Sensing (PACS) framework. This framework employs a BEV-match mechanism to discern the priority levels by computing the correlation between nearby Connected Autonomous Vehicles (CAVs) and the ego vehicle. By leveraging submodular optimization, we determine optimal transmission rates, link connectivity, and compression metrics. Additionally, a deep learning-based adaptive autoencoder is deployed, which modulates the image reconstruction quality under dynamic channel conditions. Experimental analysis underscores that PACS’s utility value and average precision of the Intersection over Union (AP@IoU) notably outperform the state-of-the-art algorithms and frameworks by 8.27% and 14.74%, respectively.
+abstract:  Collaborative perception has recently gained significant attention in autonomous driving, improving perception by enabling the exchange of additional information among vehicles. However, deploying collaborative perception systems can lead to domain shifts due to diverse environmental conditions and data heterogeneity among connected and autonomous vehicles (CAVs).To address these challenges, we propose a unified domain generalization framework applicable in both training and inference stages of collaborative perception. In the training phase, we introduce an Amplitude Augmentation (AmpAug) method to augment low-frequency image variations, broadening the model's ability to learn across various domains. We also employ a meta-consistency training scheme to simulate domain shifts, optimizing the model with a carefully designed consistency loss to encourage domain-invariant representations. In the inference phase, we introduce an intra-system domain alignment mechanism to reduce or potentially eliminate the domain discrepancy among CAVs prior to inference. Comprehensive experiments substantiate the effectiveness of our method in comparison with the existing state-of-the-art works. Code will be released at <a href='https://github.com/DG-CAVs/DG-CoPerception.git'>github</a>.
+# \texttt{\url{https://github.com/DG-CAVs/DG-CoPerception.git}}.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
