@@ -180,15 +180,16 @@ sections:
     design:
       columns: '2'
       view: card
-  # - block: markdown
-  #   id: service
-  #   content:
-  #     title: 💻 Services
-  #     text: |-
-  #       ### Reviewer
-  #       - AAAI Conference on Artificial Intelligence
-  #   design:
-  #     columns: '2'
+  - block: markdown
+    id: service
+    content:
+      title: 💻 Services
+      text: |-
+        ### Reviewer
+        - AAAI Conference on Artificial Intelligence (AAAI), 2024
+        ### Teaching
+    design:
+      columns: '2'
 
   - block: contact
     id: contact
