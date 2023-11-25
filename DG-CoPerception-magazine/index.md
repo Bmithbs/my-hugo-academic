@@ -1,19 +1,20 @@
 ---
-title: " Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird’s Eye View Segmentation for Connected and Autonomous Driving"
+title: "Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities"
 authors: 
   - admin
   - Zhengru Fang
   # - Haonan An
   # - Yuang Zhang
   # - Jingjing Wang
-  # - Hangcheng Cao
-  - Xianhao Chen
+  - Guowen Xu
+  - Hangcheng Cao
+  # - Xianhao Chen
   - Yuguang Fang
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 # - 
-date: "2023-11-29T00:00:00Z"
+date: "2023-12-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +30,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract:  Collaborative perception has recently gained significant attention in autonomous driving, improving perception by enabling the exchange of additional information among vehicles. However, deploying collaborative perception systems can lead to domain shifts due to diverse environmental conditions and data heterogeneity among connected and autonomous vehicles (CAVs).To address these challenges, we propose a unified domain generalization framework applicable in both training and inference stages of collaborative perception. In the training phase, we introduce an Amplitude Augmentation (AmpAug) method to augment low-frequency image variations, broadening the model's ability to learn across various domains. We also employ a meta-consistency training scheme to simulate domain shifts, optimizing the model with a carefully designed consistency loss to encourage domain-invariant representations. In the inference phase, we introduce an intra-system domain alignment mechanism to reduce or potentially eliminate the domain discrepancy among CAVs prior to inference. Comprehensive experiments substantiate the effectiveness of our method in comparison with the existing state-of-the-art works. Code will be released at <a href='https://github.com/DG-CAVs/DG-CoPerception.git'>github</a>.
+abstract:  Recently, autonomous driving has attracted significant attention both on academia and industry, which is expected to bring a safer and more efficient driving system. However, the current autonomous driving system is based on single vehicle, which has some limitations that may threaten the safety of the system. For example, occlusion is an inevitable problem that single-agent perception system can not address. Collaborative perception with connected and autonomous vehicles (CAVs) shows a promising solution to tackle these limitations. In this paper, we first investigate the challenges of collaborative perception, including communication delay, data volume, pose error, etc. Then, we discuss the countermeasures to address these challenges based on various technologies, where the research opportunities are also discussed. Then we proposed a scheme to deal with communication efficiency and transmission delay problems, which is a channel-aware collaborative perception framework to dynamically adjust the communication graph and minimize the average transmission delay, thereby improving the performance of perception and increasing the efficiency of communication. Finally, we conduct extensive experiments to demonstrate the effectiveness of our proposed scheme.
+
 # \texttt{\url{https://github.com/DG-CAVs/DG-CoPerception.git}}.
 
 # Summary. An optional shortened abstract.
