@@ -19,11 +19,11 @@ sections:
         - **[Nov. 2023]** The paper <a href='publication/dg-coperception'>Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving</a> was submitted to *IEEE Transactions on Intelligent Transportation Systems (**TITS**)*.
         - **[Oct. 2023]** The paper <a href='publication/pacs'>PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles</a> was submitted to *IEEE Journal on Selected Areas in Communications (**JSAC**)*.
         - **[Sep. 2023]** The paper <a href='publication/adaptive-communication'>Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving</a> was submitted to *IEEE International Conference on Robotics and Automation (**ICRA 2024**)*.
-        - **[Sep. 2023]** Senkang got the <b>Institutional Research Tuition Grant</b>, nearly 170 thousand Hong Kong dollars.
+        - **[Sep. 2023]** Senkang got the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
         - **[Jul. 2023]** 🎉 Congratulations to Senkang, finally move to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
-        - **[Jun. 2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Funding</b></a> (Nearly a million Hong Kong dollars) from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
+        - **[Jun. 2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
         - **[Jun. 2022]** Senkang graduated from Beijing Institute of Technology. Thanks for all the professors, senior students and friends who helped him in the past four years.
-        - **[Dec. 2021]** Senkang got the **National Scholarship** with his excellent academic performance (Top 1% in the whole department), which is the highest honor for chinese unversity students. 
+        - **[Dec. 2021]** Senkang got the **National Scholarship** with his top 1% excellent academic performance in the whole department, which is the highest honor for chinese unversity students. 
     design:
       columns: '2'
   - block: collection
@@ -124,7 +124,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-09-15'
-          description: 'Nearly 170 thousand Hong Kong dollars.'
+          description: 'Nearly 170 thousand HK dollars.'
           organization: City University of Hong Kong
           organization_url: 
           title: <span style="">Institutional Research Tuition Grant</span> 
@@ -132,7 +132,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-06-01'
-          description: 'Nearly a million Hong Kong dollars support his research and PhD career.'
+          description: 'Nearly a million HK dollars support his research and PhD career.'
           organization: The Government of the Hong Kong Special Administrative Region
           organization_url: 
           title: <span style="">InnoHK Funding</span> 
