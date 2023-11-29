@@ -50,7 +50,7 @@ abstract:  Collaborative perception has recently gained significant attention in
 # url_slides: ''
 # url_source: ''
 # url_video: ''
-url_preprint: 'https://www.researchgate.net/publication/375491368_PACS_Priority-Aware_Collaborative_Sensing_for_Connected_and_Autonomous_Vehicles'
+url_preprint: 'https://arxiv.org/abs/2311.16754'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
