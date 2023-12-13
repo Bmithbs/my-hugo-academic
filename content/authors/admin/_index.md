@@ -50,7 +50,7 @@ social:
 interests:
   - Collaborative Perception
   - Connected and Autonomous Vehicles
-  - Autonomous Driving Security
+  - Large Language Models
 
 # TODO:这块是自己的教育经历
 education:
