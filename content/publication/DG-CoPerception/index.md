@@ -40,10 +40,10 @@ abstract:  Collaborative perception has recently gained significant attention in
 # featured: false
 
 # links:
-# - name: ""
+# - name: [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2311.16754)
 #   url: ""
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://github.com/DG-CAVs/DG-CoPerception.git'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -56,8 +56,8 @@ url_preprint: 'https://arxiv.org/abs/2311.16754'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+#   focal_point: "123"
+#   preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -73,6 +73,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
+
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
