@@ -32,11 +32,11 @@ sections:
     content:
       title: 🎓 Publications
       text: |-
-      
-        - <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "[Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving](https://arxiv.org/abs/2311.16754)." *arXiv preprint arXiv:2311.16754 (2023).*
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Yuguang Fang. "[Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities]()." 
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "[Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving](https://arxiv.org/abs/2311.16754)." *arXiv preprint arXiv:2311.16754 (2023).*
         [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2311.16754)  
-        - Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang (2023). [PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles](https://www.researchgate.net/publication/375491368_PACS_Priority-Aware_Collaborative_Sensing_for_Connected_and_Autonomous_Vehicles)
-        - <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "[Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving.](https://arxiv.org/abs/2310.00013)" *arXiv preprint arXiv:2310.00013 (2023)*.
+        - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. [PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles](https://www.researchgate.net/publication/375491368_PACS_Priority-Aware_Collaborative_Sensing_for_Connected_and_Autonomous_Vehicles)
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "[Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving.](https://arxiv.org/abs/2310.00013)" *arXiv preprint arXiv:2310.00013 (2023)*.
         [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2310.00013) 
 
       # filters:
