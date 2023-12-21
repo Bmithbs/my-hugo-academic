@@ -19,7 +19,7 @@ sections:
       text: |-
         - **[Nov. 2023]** The paper <a href='publication/dg-coperception'>Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving</a> was submitted to *IEEE Transactions on Intelligent Transportation Systems (**TITS**)*.
         - **[Oct. 2023]** The paper <a href='publication/pacs'>PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles</a> was submitted to *IEEE Journal on Selected Areas in Communications (**JSAC**)*.
-        - **[Sep. 2023]** The paper <a href='publication/adaptive-communication'>Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving</a> was submitted to *IEEE International Conference on Robotics and Automation (**ICRA 2024**)*.
+        - **[Sep. 2023]** The paper <a href='publication/adaptive-communication'>Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving</a> was submitted to *IEEE International Conference on Robotics and Automation (**ICRA'24**)*.
         - **[Sep. 2023]** Senkang got the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
         - **[Jul. 2023]** 🎉 Congratulations to Senkang, finally move to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
         - **[Jun. 2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
@@ -191,7 +191,7 @@ sections:
       title: 💻 Services
       text: |-
         ### Reviewer
-        - AAAI Conference on Artificial Intelligence (AAAI), 2024
+        - AAAI Conference on Artificial Intelligence (**AAAI'24**)
         ### Teaching
     design:
       columns: '2'
