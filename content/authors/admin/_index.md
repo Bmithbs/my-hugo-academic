@@ -74,4 +74,4 @@ highlight_name: true
 
 Over the course of his academic journey, Senkang has garnered numerous prestigious honors and awards, including the <a href='https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046'>National Scholarship</a>, <a href='https://baike.baidu.com/item/CASC%E5%A5%96%E5%AD%A6%E9%87%91/4415603'>CASC Scholarship</a>, First Class Academic Scholarship, and the title of "Excellent Student" of the Beijing Institute of Technology. These accolades stand testament to his unwavering dedication and remarkable competence. As he continues his research endeavors, looking forward to seeing Senkang making notable contributions to his field and achieving great success in his future career.
 
-💫 <u>If you have any questions or are interested in a collaboration with Senkang, please feel free to drop him an email.</u>
+★ <u>If you have any questions or are interested in a collaboration with Senkang, please feel free to drop him an email.</u>
