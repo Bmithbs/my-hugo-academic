@@ -102,7 +102,7 @@ sections:
           location: Beijing
           date_start: '2021-10-01'
           date_end: '2022-03-31'
-          description: Responsible for literature research, the experiment of algorithm, algorithm implementation, etc.
+          description: 
         - title: Research Assistant
           company: Beijing Institute of Technology
           company_url: ''
