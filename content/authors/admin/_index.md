@@ -26,7 +26,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'mailto:huhbu@outlook.com'
+    link: 'mailto:Senkang.Forest@gmail.com'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/thoureality
