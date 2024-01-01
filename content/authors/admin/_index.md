@@ -26,7 +26,7 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'mailto:senkanhu@cityu.edu.hk'
+    link: 'mailto:huhbu@outlook.com'
   # - icon: twitter # Twitter
   #   icon_pack: fab  
   #   link: https://twitter.com/thoureality

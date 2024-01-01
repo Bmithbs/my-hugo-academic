@@ -206,7 +206,7 @@ sections:
       text: |-
 
   #   # Contact (add or remove contact options as necessary)
-      email: senkanhu@cityu.edu.hk
+      email: huhbu@outlook.com
   #     # phone: 888 888 88 88
   #     # appointment_url: 'https://calendly.com'
       address:
