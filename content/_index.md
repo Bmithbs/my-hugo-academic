@@ -33,6 +33,7 @@ sections:
     content:
       title: 🎓 Publications
       text: |-
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "[AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning]()." 
         - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "[Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities](https://arxiv.org/abs/2401.01544)." *arXiv preprint arXiv:2401.01544 (2024).*
         [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2401.01544)
         - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "[Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving](https://arxiv.org/abs/2311.16754)." *arXiv preprint arXiv:2311.16754 (2023).*
