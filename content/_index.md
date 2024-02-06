@@ -17,6 +17,7 @@ sections:
       title: 🔥 Latest News
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
+        - **[Jan. 2024]** One paper was submitted to *41st International Conference on Machine Learning (**ICML'24**)*.
         - **[Jan. 2024]** The paper <a href='https://arxiv.org/abs/2401.01544'>Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
         - **[Nov. 2023]** The paper <a href='https://arxiv.org/abs/2311.16754'>Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving</a> was submitted to *IEEE Transactions on Intelligent Transportation Systems (**TITS**)*.
         - **[Oct. 2023]** The paper <a href='https://www.researchgate.net/publication/375491368_PACS_Priority-Aware_Collaborative_Sensing_for_Connected_and_Autonomous_Vehicles'>PACS: Priority-Aware Collaborative Sensing for Connected and Autonomous Vehicles</a> was submitted to *IEEE Journal on Selected Areas in Communications (**JSAC**)*.
