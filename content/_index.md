@@ -197,8 +197,11 @@ sections:
       title: 💻 Services
       text: |-
         ### Reviewer
-        - AAAI Conference on Artificial Intelligence (**AAAI'24**)
-        ### Teaching
+        - Proceedings of IEEE
+        - AAAI Conference on Artificial Intelligence (*AAAI'24*)
+        ### Teaching Assistant
+        - Cloud Computing: Theory and Practice, 24 Spring
+
     design:
       columns: '2'
 
