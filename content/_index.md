@@ -197,6 +197,7 @@ sections:
       title: 💻 Services
       text: |-
         ### Reviewer
+        - IEEE Robotics and Automation Letters (*RA-L*)
         - Proceedings of IEEE
         - AAAI Conference on Artificial Intelligence (*AAAI'24*)
         ### Teaching Assistant
