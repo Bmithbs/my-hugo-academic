@@ -199,7 +199,7 @@ sections:
         ### Reviewer
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (*IROS'24*)
         - IEEE Robotics and Automation Letters (*RA-L*)
-        - Proceedings of IEEE
+        - Proceedings of the IEEE
         - AAAI Conference on Artificial Intelligence (*AAAI'24*)
         ### Teaching Assistant
         - Cloud Computing: Theory and Practice, 24 Spring
