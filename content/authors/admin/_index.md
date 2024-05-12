@@ -51,18 +51,19 @@ interests:
   - Collaborative Perception
   - Connected and Autonomous Vehicles
   - Autonomous Agents
+  - Foundation Models
 
 # TODO:这块是自己的教育经历
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: City University of Hong Kong, Hong Kong Special Administrative Region
+    - course: PhD in Computer Science (CS)
+      institution: City University of Hong Kong (CityUHK), Hong Kong Special Administrative Region
       year: 2023 - Now
     # - course: PhD in Computer Science
     #   institution: University of Chinese Academy of Sciences, Beijing, China
     #   year: 2022 - 2023
-    - course: BS in Electronic and Information Engineering 
-      institution: Beijing Institute of Technology, Beijing, China
+    - course: BS in Electronic and Information Engineering (EE) 
+      institution: Beijing Institute of Technology (BIT), Beijing, China
       year: 2018 - 2022
 # email: 'senkan@cityu.edu.hk'
 highlight_name: true
