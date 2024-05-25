@@ -200,6 +200,9 @@ sections:
       title: 💻 Services
       text: |-
         ### Reviewer
+        - Information Fusion
+        - Pattern Recognition
+        - 2024 IEEE/CIC International Conference on Communications in China (*ICCC'24*)
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (*IROS'24*)
         - IEEE Robotics and Automation Letters (*RA-L*)
         - Proceedings of the IEEE
