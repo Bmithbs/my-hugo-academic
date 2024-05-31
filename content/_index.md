@@ -75,7 +75,7 @@ sections:
           company_logo: cityu
           location: Hong Kong
           date_start: '2023-07-01'
-          date_end: ''
+          date_end: '2023-12-31'
           description: 
         - title: Founder & CEO
           # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
