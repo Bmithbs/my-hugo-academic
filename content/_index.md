@@ -34,6 +34,7 @@ sections:
     content:
       title: 🎓 Publications
       text: |-
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Yihang Tao, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "[AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making at Multi-Lane Merging Zone]()." 
         - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "[AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/abs/2404.06345)." *arXiv:2404.06345 (2024).*
         [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2404.06345)
         - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "[Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities](https://arxiv.org/abs/2401.01544)." *arXiv preprint arXiv:2401.01544 (2024).*
