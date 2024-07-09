@@ -206,8 +206,10 @@ sections:
         - IEEE Robotics and Automation Letters (RA-L)
         - Proceedings of the IEEE
         - AAAI Conference on Artificial Intelligence (AAAI'24)
+        - etc......
         ### Teaching Assistant
         - Cloud Computing: Theory and Practice, 24 Spring
+        
 
     design:
       columns: '2'
