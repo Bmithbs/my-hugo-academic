@@ -197,15 +197,15 @@ sections:
       text: |-
         ### Reviewer
         - IET Information Security
-        - IEEE Transactions on Network and Service Management (*TNSM*)
-        - ACM Transactions on Autonomous and Adaptive Systems (*TAAS*)
+        - IEEE Transactions on Network and Service Management (TNSM)
+        - ACM Transactions on Autonomous and Adaptive Systems (TAAS)
         - Information Fusion
-        - Pattern Recognition
-        - 2024 IEEE/CIC International Conference on Communications in China (*ICCC'24*)
-        - IEEE/RSJ International Conference on Intelligent Robots and Systems (*IROS'24*)
-        - IEEE Robotics and Automation Letters (*RA-L*)
+        - Pattern Recognition (PR)
+        - 2024 IEEE/CIC International Conference on Communications in China (ICCC'24)
+        - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'24)
+        - IEEE Robotics and Automation Letters (RA-L)
         - Proceedings of the IEEE
-        - AAAI Conference on Artificial Intelligence (*AAAI'24*)
+        - AAAI Conference on Artificial Intelligence (AAAI'24)
         ### Teaching Assistant
         - Cloud Computing: Theory and Practice, 24 Spring
 
