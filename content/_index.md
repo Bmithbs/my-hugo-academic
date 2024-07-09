@@ -196,6 +196,9 @@ sections:
       title: 💻 Services
       text: |-
         ### Reviewer
+        - IET Information Security
+        - IEEE Transactions on Network and Service Management (*TNSM*)
+        - ACM Transactions on Autonomous and Adaptive Systems (*TAAS*)
         - Information Fusion
         - Pattern Recognition
         - 2024 IEEE/CIC International Conference on Communications in China (*ICCC'24*)
