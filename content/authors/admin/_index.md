@@ -49,8 +49,8 @@ social:
 # TODO:这块是自己的研究兴趣
 interests:
   - Collaborative Perception
-  - Connected and Autonomous Vehicles
-  - Autonomous Agents
+  - Autonomous Driving
+  - LLM Agents
   - Foundation Models
 
 # TODO:这块是自己的教育经历
