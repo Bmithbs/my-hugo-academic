@@ -64,10 +64,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Co-Founder & CTO
+          company: Pivot Biomedical Engineering Ltd.
+          company_logo: PivotBME
+          company_url: 'https://pivotbme.com/'
+          location: Hong Kong
+          date_start: '2024-06-01'
         - title: Research Assistant
           # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
           company:  City University of Hong Kong
-          company_url: ''
+          company_url: 'https://www.cityu.edu.hk/'
           company_logo: cityu
           location: Hong Kong
           date_start: '2023-07-01'
@@ -84,7 +90,7 @@ sections:
           description: 
         - title: Quantitative Strategy Intern
           company: Prism Private Equity 
-          company_url: ''
+          company_url: 'https://lengjing.fund/'
           company_logo: prism
           location: Beijing
           date_start: '2022-09-01'
@@ -92,7 +98,7 @@ sections:
           description: Responsible for financial data processing, stock data mining, trading strategy research and testing, etc.
         - title: Computer Vision Intern
           company:  HAOMO.AI 
-          company_url: ''
+          company_url: 'https://haomo.ai/'
           company_logo: haomo
           location: Beijing
           date_start: '2022-04-01'
