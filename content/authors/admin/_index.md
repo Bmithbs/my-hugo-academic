@@ -62,7 +62,7 @@ education:
     # - course: PhD in Computer Science
     #   institution: University of Chinese Academy of Sciences, Beijing, China
     #   year: 2022 - 2023
-    - course: BS in Electronic and Information Engineering (EE) 
+    - course: BEng in Electronic and Information Engineering (EE) 
       institution: Beijing Institute of Technology (BIT), Beijing, China
       year: 2018 - 2022
 # email: 'senkan@cityu.edu.hk'
@@ -71,6 +71,6 @@ highlight_name: true
 <!-- TODO:写自己的Biography -->
 <!-- # Biography -->
 <!-- <p style="text-align:justify">  -->
-**Senkang "Forest" Hu** is a dedicated scholar who is currently advancing his academic pursuits as a Ph.D. student at the <a href="https://www.cityu.edu.hk/">Department of Computer Science, City University of Hong Kong<a>, under the  supervision of <a href="https://www.cs.cityu.edu.hk/~yugufang/">Chair Professor of Internet of Things, Fellow of ACM & IEEE & AAAS, <b>Prof. Yuguang "Michael" Fang.</b></a> Previously, he received his Bachelor of Science degree from the School of Information and Electronics, <a href='https://bit.edu.cn/'>Beijing Institute of Technology </a> in 2022.
+**Senkang "Forest" Hu** is a dedicated scholar who is currently advancing his academic pursuits as a Ph.D. student at the <a href="https://www.cityu.edu.hk/">Department of Computer Science, City University of Hong Kong<a>, under the supervision of <a href="https://www.cs.cityu.edu.hk/~yugufang/">Chair Professor of Internet of Things, Fellow of ACM & IEEE & AAAS, <b>Prof. Yuguang "Michael" Fang.</b></a> Previously, he received his BEng degree from the School of Information and Electronics, <a href='https://bit.edu.cn/'>Beijing Institute of Technology </a> in 2022.
 
 ★ <u>If you have any questions or are interested in a collaboration with Senkang, please feel free to drop him an email.</u>
