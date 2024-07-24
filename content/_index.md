@@ -41,7 +41,7 @@ sections:
         - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Yuguang Fang, et al. "[PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics]()." 
         - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "[PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles](https://arxiv.org/abs/2404.06891)." *arXiv:2404.06891 (2024).*
         [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2404.06891)  
-        - **[Preprint]** Haonan An, Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Yuang Zhang, Xianhao Chen, Guowen Xu, Yuguang Fang. "[Throughput Maximization for Vehicular Cooperative Perception with Adaptive Compression.]()" 
+        
         
 
       # filters:
