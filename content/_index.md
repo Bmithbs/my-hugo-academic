@@ -29,18 +29,15 @@ sections:
     content:
       title: 🎓 Publications
       text: |-
-        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "[AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging]()." 
-        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "[AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/abs/2404.06345)." *arXiv:2404.06345 (2024).*
-        [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2404.06345)
-        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "[Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities](https://arxiv.org/abs/2401.01544)." *arXiv preprint arXiv:2401.01544 (2024).*
-        [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2401.01544)
-        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "[Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving](https://arxiv.org/abs/2311.16754)." *arXiv preprint arXiv:2311.16754 (2023).*
-        [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2311.16754)  
-        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "[Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving.](https://arxiv.org/abs/2310.00013)" *arXiv preprint arXiv:2310.00013 (2023)*.
-        [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2310.00013) 
-        - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Yuguang Fang, et al. "[PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics]()." 
-        - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "[PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles](https://arxiv.org/abs/2404.06891)." *arXiv:2404.06891 (2024).*
-        [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2404.06891)  
+        <sup>#</sup>equal contribution, *corresponding author.
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u><sup>#</sup>, Yihang Tao<sup>#</sup>, Yuguang Fang, et al. "Malicious Agent Detection in Collaborative Perception."
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." 
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning," [[arxiv](https://arxiv.org/abs/2404.06345)]
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[arxiv](https://arxiv.org/abs/2401.01544)]
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." [[arxiv](https://arxiv.org/abs/2311.16754)]
+        - **[Preprint]** <u>**Senkang "Forest" Hu**</u>, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving." [[arxiv](https://arxiv.org/abs/2310.00013)]
+        - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics." [[code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
+        - **[Preprint]** Zhengru Fang, <u>**Senkang "Forest" Hu**</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." [[arxiv](https://arxiv.org/abs/2404.06891)]
         
         
 
