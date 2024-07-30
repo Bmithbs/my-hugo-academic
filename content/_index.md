@@ -17,7 +17,7 @@ sections:
       title: 🔥 Latest News
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
-        - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Twon 🇿🇦!
+        - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town 🇿🇦!
         - **[Sep. 2023]** Senkang got the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
         - **[Jul. 2023]** 🎉 Congratulations to Senkang, finally move to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
         - **[Jun. 2023]** Thanks for Prof. Fang's strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
