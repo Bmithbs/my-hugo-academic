@@ -38,7 +38,7 @@ sections:
         - **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." [[pdf](https://arxiv.org/abs/2311.16754)]
         - **[GLOBECOM'24]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving." [[pdf](https://arxiv.org/abs/2310.00013)]
         - **[GLOBECOM'24]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics." [[code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
-        - **[Preprint]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." [[pdf](https://arxiv.org/abs/2404.06891)]
+        - **[Preprint]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." [[pdf](https://arxiv.org/abs/2404.06891), [code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
         
         
 
