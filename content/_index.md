@@ -32,7 +32,7 @@ sections:
       text: |-
         <sup>#</sup>equal contribution, *corresponding author.
         - **[Preprint]** <u>Senkang "Forest" Hu</u><sup>#</sup>, Yihang Tao<sup>#</sup>, Yuguang Fang, et al. "Agent Detection in Collaborative Bird's Eye View Perception."
-        - **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." 
+        - **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
         - **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345)]
         - **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
         - **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." [[PDF](https://arxiv.org/abs/2311.16754)]
