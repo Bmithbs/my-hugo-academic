@@ -213,8 +213,9 @@ sections:
         - AAAI Conference on Artificial Intelligence (AAAI'24)
         - etc......
         ### Teaching Assistant
-        - Cloud Computing: Theory and Practice, 24 Spring
-        - Computer Networks, 24 Fall
+        - Computer Networks, 2024 Fall
+        - Cloud Computing: Theory and Practice, 2024 Spring
+
         
 
     design:
