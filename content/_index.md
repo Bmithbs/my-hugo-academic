@@ -214,7 +214,7 @@ sections:
         - etc......
         ### Teaching Assistant
         - Cloud Computing: Theory and Practice, 24 Spring
-        - CS3201 Computer Networks, 24 Fall
+        - Computer Networks, 24 Fall
         
 
     design:
