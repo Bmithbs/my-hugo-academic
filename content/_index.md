@@ -42,7 +42,8 @@ sections:
         8. **[Preprint]** Yihang Tao, <u>Senkang "Forest" Hu</u>, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention".
         9. **[GLOBECOM'24]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2408.17047), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
         10. **[TMC]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." *IEEE Transactions on Moblie Computing.* [[PDF](https://arxiv.org/abs/2404.06891), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
-        11. **[Preprint]** Zihan Fang, Zheng Lin, <u>Senkang "Forest" Hu</u>, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers".
+        11. **[Preprint]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Jingjing Wang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics."
+        12. **[Preprint]** Zihan Fang, Zheng Lin, <u>Senkang "Forest" Hu</u>, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers".
         
 
       # filters:
