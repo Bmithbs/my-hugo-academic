@@ -204,8 +204,8 @@ sections:
       title: 💻 Services
       text: |-
         ### Reviewer
-        - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS'24)
-        - The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
+        - The Conference on Neural Information Processing Systems (NeurIPS'24)
+        - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
         - IET Information Security
         - IEEE Transactions on Network and Service Management (TNSM)
         - ACM Transactions on Autonomous and Adaptive Systems (TAAS)
