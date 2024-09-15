@@ -81,17 +81,17 @@ sections:
           date_start: '2023-07-01'
           date_end: '2023-12-31'
           description: 
-        - title: Founder & CEO
-          # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
-          company:  Beyond Future.AI
-          company_url: ''
-          company_logo: bf
-          location: Beijing
-          date_start: '2023-03-01'
-          date_end: ''
-          description: 
+        # - title: Founder & CEO
+        #   # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
+        #   company:  Beyond Future.AI
+        #   company_url: ''
+        #   company_logo: bf
+        #   location: Beijing
+        #   date_start: '2023-03-01'
+        #   date_end: ''
+        #   description: 
         - title: Quantitative Strategy Intern
-          company: Prism Private Equity 
+          company: Lengjing Fund
           company_url: 'https://lengjing.fund/'
           company_logo: prism
           location: Beijing
@@ -203,6 +203,7 @@ sections:
     content:
       title: 💻 Services
       text: |-
+        ### Technical Program Committee
         ### Reviewer
         - The Conference on Neural Information Processing Systems (NeurIPS'24)
         - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
