@@ -93,7 +93,7 @@ sections:
         #   date_end: ''
         #   description: 
         - title: Quantitative Strategy Intern
-          company: Lengjing Fund
+          company: Prism Private Equity Fund Management Co. LTD
           company_url: 'https://lengjing.fund/'
           company_logo: prism
           location: Beijing
