@@ -206,6 +206,7 @@ sections:
       title: 💻 Services
       text: |-
         ### Technical Program Committee
+        - The International Conference on Learning Representations (ICLR'25)
         ### Reviewer
         - The Conference on Neural Information Processing Systems (NeurIPS'24)
         - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
