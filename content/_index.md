@@ -207,6 +207,7 @@ sections:
       text: |-
         ### Technical Program Committee
         - The International Conference on Learning Representations (ICLR'25)
+        - AAAI Conference on Artificial Intelligence (AAAI'25)
         ### Reviewer
         - The Conference on Neural Information Processing Systems (NeurIPS'24)
         - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
@@ -219,7 +220,6 @@ sections:
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'24)
         - IEEE Robotics and Automation Letters (RA-L)
         - Proceedings of the IEEE
-        - AAAI Conference on Artificial Intelligence (AAAI'24)
         - etc......
         ### Teaching Assistant
         - Computer Networks, 2024 Fall
