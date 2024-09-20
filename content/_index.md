@@ -21,7 +21,7 @@ sections:
         - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town 🇿🇦!
         - **[Sep. 2023]** Senkang got the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
         - **[Jul. 2023]** Congratulations to Senkang 🎉, finally move to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
-        - **[Jun. 2023]** Thanks for [**Prof. Fang**](https://www.cs.cityu.edu.hk/~yugufang/)'s strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
+        - **[Jun. 2023]** Thanks for [**Prof. Fang**](https://www.cs.cityu.edu.hk/~yugufang/)'s strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Award Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
         - **[Jun. 2022]** Senkang graduated from Beijing Institute of Technology. Thanks for all the professors, senior students and friends who helped him in the past four years.
         - **[Dec. 2021]** Senkang got the **National Scholarship** with his top 1% excellent academic performance in the whole department, which is the highest honor for chinese university students. 
     design:
@@ -37,7 +37,7 @@ sections:
         3. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
         4. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345), [Report](https://mp.weixin.qq.com/s/HVfs4-PT58WujCvEZZboug)]
         5. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
-        6. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." [[PDF](https://arxiv.org/abs/2311.16754), [Code](https://github.com/DG-CAVs/DG-CoPerception)]
+        6. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." [[PDF](https://arxiv.org/abs/2311.16754)]
         7.  **[Preprint]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Jingjing Wang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics." [[PDF](https://arxiv.org/abs/2409.00146), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
         8.  **[Preprint]** Yihang Tao, <u>Senkang "Forest" Hu</u>, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". [[PDF](https://arxiv.org/abs/2409.08840)]
         9.  **[Preprint]** Zihan Fang, Zheng Lin, <u>Senkang "Forest" Hu</u>, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers"
@@ -155,7 +155,7 @@ sections:
           description: 'Nearly a million HK dollars support his research and PhD career.'
           organization: The Government of the Hong Kong Special Administrative Region
           organization_url: 
-          title: <span style="">InnoHK Funding</span> 
+          title: <span style="">InnoHK Award Funding</span> 
           url: ''
         - certificate_url: 
           date_end: ''
@@ -206,6 +206,8 @@ sections:
       title: 💻 Services
       text: |-
         ### Technical Program Committee
+        - The International Conference on Learning Representations (ICLR'25)
+        - AAAI Conference on Artificial Intelligence (AAAI'25)
         ### Reviewer
         - The Conference on Neural Information Processing Systems (NeurIPS'24)
         - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
@@ -217,8 +219,8 @@ sections:
         - 2024 IEEE/CIC International Conference on Communications in China (ICCC'24)
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'24)
         - IEEE Robotics and Automation Letters (RA-L)
-        - Proceedings of the IEEE
         - AAAI Conference on Artificial Intelligence (AAAI'24)
+        - Proceedings of the IEEE
         - etc......
         ### Teaching Assistant
         - Computer Networks, 2024 Fall
