@@ -26,22 +26,13 @@ organizations:
 social:
   - icon: envelope  # 邮箱
     icon_pack: fas
-    link: 'mailto:Senkang.Forest@gmail.com'
-  # - icon: twitter # Twitter
-  #   icon_pack: fab  
-  #   link: https://twitter.com/thoureality
+    link: 'mailto:senkang.forest@gmail.com'
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=rtPVwT8AAAAJ
   - icon: house-user  # 自己的主页链接
     icon_pack: fas
     link: https://bmithbs.github.io/
-  # - icon: github # github主页
-  #   icon_pack: fab   
-  #   link: https://www.github.com/bmithbs
-  # - icon: cv  # 如果要上传CV，将文件发给Senkang
-  #   icon_pack: ai
-  #   link: files/cv.pdf
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/senkang-hu-3123681b5/
@@ -59,9 +50,6 @@ education:
     - course: PhD in Computer Science (CS)
       institution: City University of Hong Kong (CityUHK), Hong Kong Special Administrative Region
       year: 2023 - Now
-    # - course: PhD in Computer Science
-    #   institution: University of Chinese Academy of Sciences, Beijing, China
-    #   year: 2022 - 2023
     - course: BEng in Electronic and Information Engineering (EE) 
       institution: Beijing Institute of Technology (BIT), Beijing, China
       year: 2018 - 2022
