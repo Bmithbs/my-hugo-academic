@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # TODO:这里可以简单介绍下自己 必填
-role: <b>PhD@CITYU, BS@BIT</b>
+role: <b>PhD@CITYU, BEng@BIT</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
