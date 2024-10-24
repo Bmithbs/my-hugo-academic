@@ -210,6 +210,7 @@ sections:
         - The International Conference on Learning Representations (ICLR'25)
         - AAAI Conference on Artificial Intelligence (AAAI'25)
         ### Reviewer
+        - IEEE International Conference on Robotics and Automation (ICRA'25)
         - The Conference on Neural Information Processing Systems (NeurIPS'24)
         - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
         - IET Information Security
