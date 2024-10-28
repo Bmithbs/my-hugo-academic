@@ -204,7 +204,7 @@ sections:
   - block: markdown
     id: service
     content:
-      title: 💻 Services
+      title: 💻 Services 
       text: |-
         ### Technical Program Committee
         - The International Conference on Learning Representations (ICLR'25)
