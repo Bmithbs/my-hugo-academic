@@ -18,7 +18,7 @@ sections:
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
         - **[Sep. 2024]** Senkang was nominated as **Program Committee Member** of AAAI'25 and ICLR'25!
-        - **[Aug. 2024]** One paper was accepted by IEEE Transactions on Mobile Computing!
+        - **[Aug. 2024]** One paper was accepted by **IEEE Transactions on Mobile Computing (TMC)**!
         - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town 🇿🇦!
         - **[Sep. 2023]** Senkang got the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
         - **[Jul. 2023]** Congratulations to Senkang 🎉, finally move to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!

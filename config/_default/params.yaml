@@ -8,7 +8,7 @@
 appearance:
   theme_day: 1950s
   theme_night: apogee
-  font: Native  # Cyberpunk # Minimal # Classic # Rose # Native
+  font:  Native  # Cyberpunk # Minimal # Classic # Rose # Native
   font_size: l
 
 # SEO
