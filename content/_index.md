@@ -170,7 +170,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-12-25'
-          description: 'The highest honor for chinese university students.'
+          description: 'The highest honor for Chinese university students.'
           organization: Ministry of Education of the People's Republic of China
           organization_url: 
           title: <span style="">National Scholarship</span> 
