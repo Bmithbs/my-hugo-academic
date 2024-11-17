@@ -154,10 +154,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-09-15'
-          description: 'Nearly HK$170,000 to waive his part of tuition fees during his PhD.'
+          description: 'HK$170,000 to waive part of his tuition fees during PhD.'
           organization: City University of Hong Kong
           organization_url: 
-          title: <span style="">Institutional Research Tuition Grant</span> 
+          title: Institutional Research Tuition Grant
           url: ''
         - certificate_url: 
           date_end: ''
