@@ -17,15 +17,15 @@ sections:
       title: 🔥 Latest News
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
-        - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant**, which consists of $1000 to support his conference travel!
-        - **[Sep. 2024]** Senkang was nominated as **Program Committee Member** of AAAI'25 and ICLR'25!
+        - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant**, which consists of $1,000 to support his conference travel!
+        - **[Sep. 2024]** Senkang was nominated as a **Program Committee Member** of AAAI'25 and ICLR'25!
         - **[Aug. 2024]** One paper was accepted by **IEEE Transactions on Mobile Computing (TMC)**!
         - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town 🇿🇦!
         - **[Sep. 2023]** Senkang was awarded the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
-        - **[Jul. 2023]** Congratulations to Senkang 🎉, finally move to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
-        - **[Jun. 2023]** Thanks for [**Prof. Fang**](https://www.cs.cityu.edu.hk/~yugufang/)'s strong spport, Senkang got the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Award Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
-        - **[Jun. 2022]** Senkang **Graduated** from Beijing Institute of Technology. Thanks for all the professors, senior students and friends who helped him in the past four years.
-        - **[Dec. 2021]** Senkang was awarded the **National Scholarship** with his top 1% excellent academic performance in the whole department, which is the highest honor for chinese university students. 
+        - **[Jul. 2023]** Congratulations to Senkang 🎉, finally moved to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
+        - **[Jun. 2023]** Thanks to [**Prof. Fang**](https://www.cs.cityu.edu.hk/~yugufang/)'s strong support, Senkang received the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Award Funding</b></a>, nearly HK$1,000,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
+        - **[Jun. 2022]** Senkang **graduated** from Beijing Institute of Technology. Thanks to all the professors, senior students and friends who helped him in the past four years.
+        - **[Dec. 2021]** Senkang was awarded the **National Scholarship** for his top 1% academic performance in the whole department, which is the highest honor for Chinese university students.
     design:
       columns: '2'
   - block: markdown
