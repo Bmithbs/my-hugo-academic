@@ -292,13 +292,13 @@ sections:
       subtitle:
       text: |
 
-        # <div style="width: 100%; height: auto;">
+        <div style="width: 20%; height: auto; margin: auto;">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qLWVVAAvtN_5u37gNS4Dm-rflExCdP123yF9uf4KZnk"></script>
-        # <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5nkevw8m6m7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
-        # </div>
+        </div>
     design:
       columns: '1'
       background:
         image:
           filename: 
 ---
+
