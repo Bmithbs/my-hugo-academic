@@ -145,8 +145,16 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2024-11-15'
+          description: '$1000 to support his conference travel.'
+          organization: IEEE Communications Society
+          organization_url: 
+          title: IEEE ComSoc Student Grant
+          url: ''
+        - certificate_url: 
+          date_end: ''
           date_start: '2023-09-15'
-          description: 'Nearly 170 thousand HK dollars.'
+          description: 'Nearly HK$170,000 to waive his part of tuition fees during his PhD.'
           organization: City University of Hong Kong
           organization_url: 
           title: <span style="">Institutional Research Tuition Grant</span> 
@@ -154,7 +162,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-06-01'
-          description: 'Nearly a million HK dollars support his research and PhD career.'
+          description: 'Nearly HK$1,000,000 to support his research and PhD career.'
           organization: The Government of the Hong Kong Special Administrative Region
           organization_url: 
           title: <span style="">InnoHK Award Funding</span> 
