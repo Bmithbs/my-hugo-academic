@@ -299,7 +299,7 @@ sections:
       subtitle:
       text: |
 
-        <div style="width: 20%; height: auto; margin: auto;">
+        <div style="width: 30%; height: auto; margin: auto;">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qLWVVAAvtN_5u37gNS4Dm-rflExCdP123yF9uf4KZnk"></script>
         </div>
     design:
