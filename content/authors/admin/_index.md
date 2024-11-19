@@ -48,7 +48,7 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science (CS)
-      institution: City University of Hong Kong (CityUHK), Hong Kong Special Administrative Region
+      institution: City University of Hong Kong (CITYU HK), Hong Kong Special Administrative Region
       year: 2023 - Now
     - course: BEng in Electronic and Information Engineering (EE) 
       institution: Beijing Institute of Technology (BIT), Beijing, China
