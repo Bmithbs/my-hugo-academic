@@ -17,7 +17,8 @@ sections:
       title: 🔥 Latest News
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
-        - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant**, which consists of $500 to support his conference travel!
+        - **[Nov. 2024]** One paper was accepted by **IEEE Transactions on Intelligence Transportation Systems (TITS)**! [[PDF](https://arxiv.org/abs/2311.16754)]
+        - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant** to support his conference travel.
         - **[Sep. 2024]** Senkang was nominated as a **Program Committee Member** of AAAI'25 and ICLR'25!
         - **[Aug. 2024]** One paper was accepted by **IEEE Transactions on Mobile Computing (TMC)**!
         - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town 🇿🇦!
@@ -146,7 +147,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2024-11-15'
-          description: '$500 to support his conference travel.'
+          description: ''
           organization: IEEE Communications Society
           organization_url: 
           title: IEEE ComSoc Student Grant
