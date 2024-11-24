@@ -232,7 +232,6 @@ sections:
         - 2024 IEEE/CIC International Conference on Communications in China (ICCC'24)
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'24)
         - IEEE Robotics and Automation Letters (RA-L)
-        - AAAI Conference on Artificial Intelligence (AAAI'24)
         - Proceedings of the IEEE
         - etc......
         ### Teaching Assistant
