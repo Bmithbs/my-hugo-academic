@@ -34,7 +34,7 @@ sections:
     content:
       title: 🎯 Research
       text: |-
-        ## **Collaborative Perception (CP) for Autonomous Driving**
+        ## Collaborative Perception (CP) for Autonomous Driving
         - **Collaborative Perception System Design**: Collaborative perception (CP) can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
         - **Security Issues in Collaborative Perception**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing secure CP systems is crucial.
   
@@ -52,7 +52,7 @@ sections:
         
         ## **Preprints**
         1. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Robost Agent Detection in Collaborative Perception."
-        2. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Agent Detection in Collaborative Bird's Eye View Perception."
+        2. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Guowen Xu, Yiqin Deng, Xianhao Chen,  Yuguang Fang, Sam Kwong. "Agent Detection in Collaborative Bird's Eye View Perception."
         3. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
         4. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345), [Blog](https://mp.weixin.qq.com/s/HVfs4-PT58WujCvEZZboug)]
         5. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
