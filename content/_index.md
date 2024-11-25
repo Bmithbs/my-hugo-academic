@@ -292,7 +292,7 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
       text: |-
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=825&t=tt&d=qLWVVAAvtN_5u37gNS4Dm-rflExCdP123yF9uf4KZnk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
         
     design:
       columns: '2'
