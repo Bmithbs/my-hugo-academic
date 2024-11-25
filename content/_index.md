@@ -28,35 +28,51 @@ sections:
         - **[Jun. 2022]** Senkang **graduated** from Beijing Institute of Technology. Thanks to all the professors, senior students and friends who helped him in the past four years.
         - **[Dec. 2021]** Senkang was awarded the **National Scholarship** for his top 1% academic performance in the whole department, which is the highest honor for Chinese university students.
     design:
-      columns: '2'
+      columns: '1'
+  - block: markdown
+    id: research
+    content:
+      title: 🎯 Research
+      text: |-
+        ## **Collaborative Perception (CP) for Autonomous Driving**
+        - **Collaborative Perception System Design**: Collaborative perception (CP) can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
+        - **Security Issues in Collaborative Perception**: Since CP needs to leverage the information from multiple vehicles,
+        ## **Large Language Models (LLMs)**
+        - **Multi-Agent LLM Systems for Autonomous Driving**: I am also interested in building multi-agent LLM systems for collaborative decision-making in autonomous driving. 
+        - **LLM Task Adaptation**: How to adapt the pre-trained LLMs to the specific tasks 
   - block: markdown
     id: publications
     content:
       title: 🎓 Publications
       text: |-
+        
+        ## **Preprints**
+        1. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Robost Agent Detection in Collaborative Perception."
+        2. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Agent Detection in Collaborative Bird's Eye View Perception."
+        3. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
+        4. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345), [Report](https://mp.weixin.qq.com/s/HVfs4-PT58WujCvEZZboug)]
+        5. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
+        6. **[Preprint]** Zhengru Fang, **<u>Senkang "Forest" Hu</u>**, Jingjing Wang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics." [[PDF](https://arxiv.org/abs/2409.00146), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
+        7. **[Preprint]** Yihang Tao, **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". [[PDF](https://arxiv.org/abs/2409.08840)]
+        8. **[Preprint]** Zihan Fang, Zheng Lin, **<u>Senkang "Forest" Hu</u>**, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers." [[PDF](https://arxiv.org/abs/2410.02592)]
+
+        ## **Accepted Papers in 2024**
+
+        
+        9.  **[TITS'24]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." *IEEE Transactions on Intelligent Transportation Systems.* [[PDF](https://arxiv.org/abs/2311.16754)]
+        10. **[GLOBECOM'24]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2310.00013)]
+        11. **[GLOBECOM'24]** Zhengru Fang, **<u>Senkang "Forest" Hu</u>**, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2408.17047), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
+        12. **[TMC'24]** Zhengru Fang, **<u>Senkang "Forest" Hu</u>**, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." *IEEE Transactions on Moblie Computing.* [[PDF](https://arxiv.org/abs/2404.06891)]
+        
         <sup>#</sup>equal contribution, *corresponding author.
-        1. **[Preprint]** <u>Senkang "Forest" Hu</u><sup>#</sup>, Yihang Tao<sup>#</sup>, Yuguang Fang, et al. "Robost Agent Detection in Collaborative Perception."
-        2. **[Preprint]** <u>Senkang "Forest" Hu</u><sup>#</sup>, Yihang Tao<sup>#</sup>, Yuguang Fang, et al. "Agent Detection in Collaborative Bird's Eye View Perception."
-        3. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
-        4. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345), [Report](https://mp.weixin.qq.com/s/HVfs4-PT58WujCvEZZboug)]
-        5. **[Preprint]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
-        6. **[TITS'24]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." *IEEE Transactions on Intelligent Transportation Systems.* [[PDF](https://arxiv.org/abs/2311.16754)]
-        7. **[GLOBECOM'24]** <u>Senkang "Forest" Hu</u>, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2310.00013)]
-        8.  **[Preprint]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Jingjing Wang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Prioritized Information Bottleneck Theoretic Framework with Distributed Online Learning for Edge Video Analytics." [[PDF](https://arxiv.org/abs/2409.00146), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
-        9.  **[Preprint]** Yihang Tao, <u>Senkang "Forest" Hu</u>, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". [[PDF](https://arxiv.org/abs/2409.08840)]
-        10. **[Preprint]** Zihan Fang, Zheng Lin, <u>Senkang "Forest" Hu</u>, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers." [[PDF](https://arxiv.org/abs/2410.02592)]
-        11. **[GLOBECOM'24]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2408.17047), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
-        12. **[TMC'24]** Zhengru Fang, <u>Senkang "Forest" Hu</u>, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." *IEEE Transactions on Moblie Computing.* [[PDF](https://arxiv.org/abs/2404.06891)]
+
         
 
         
 
-      # filters:
-      #   folders:
-      #     - publication
-      #   exclude_featured: true
+    
     design:
-      columns: '2'
+      columns: '1'
       # view: citation
   - block: experience
     id: experience
