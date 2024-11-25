@@ -120,7 +120,7 @@ sections:
           location: Beijing
           date_start: '2022-09-01'
           date_end: '2022-12-31'
-          description: Responsible for financial data processing, stock data mining, trading strategy research and testing, etc.
+          description: 
         - title: Computer Vision Intern
           company:  HAOMO.AI 
           company_url: 'https://haomo.ai/'
@@ -128,7 +128,7 @@ sections:
           location: Beijing
           date_start: '2022-04-01'
           date_end: '2022-08-31'
-          description: Responsible for the maintenance and iteration of 3D point cloud object detection algorithm, the generalization of 3D object detection algorithm, data cleaning algorithm research, research and experiment of training methods, etc.
+          description: 
         - title: Research Assistant
           company: Chinese Academy of Sciences 
           company_url: ''
