@@ -38,7 +38,7 @@ sections:
         - **Collaborative Perception System Design**: Collaborative perception (CP) can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
         - **Security Issues in Collaborative Perception**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing secure CP systems is crucial.
   
-  
+
         ## **Large Language Models (LLMs)**
         - **Multi-Agent LLM Systems for Autonomous Driving**: I am also interested in building multi-agent LLM systems for collaborative decision-making in autonomous driving. 
         - **LLM Task Adaptation**: How to adapt pre-trained LLMs to specific tasks more efficiently is an interesting topic.
@@ -234,10 +234,10 @@ sections:
     content:
       title: 💻 Services  
       text: |-
-        ### Technical Program Committee
+        ## **Technical Program Committee**
         - The International Conference on Learning Representations (ICLR'25)
         - AAAI Conference on Artificial Intelligence (AAAI'25)
-        ### Reviewer
+        ## **Reviewer**
         - ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)
         - IEEE International Conference on Robotics and Automation (ICRA'25)
         - The Conference on Neural Information Processing Systems (NeurIPS'24)
@@ -252,7 +252,7 @@ sections:
         - IEEE Robotics and Automation Letters (RA-L)
         - Proceedings of the IEEE
         - etc......
-        ### Teaching Assistant
+        ## **Teaching Assistant**
         - Computer Networks, 2024 Fall
         - Cloud Computing: Theory and Practice, 2024 Spring
 
