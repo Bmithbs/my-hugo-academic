@@ -42,8 +42,6 @@ sections:
         ## **Large Language Models (LLMs)**
         - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
         - **LLM Task Adaptation**: Adapting pre-trained LLMs to specific tasks, such as collaborative decision-making, better and more efficiently.
-
-
   - block: markdown
     id: publications
     content:
