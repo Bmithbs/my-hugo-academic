@@ -91,14 +91,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Co-Founder & CTO
+        - title: <span style="color:#000000">Co-Founder & CTO</span>
           company: Pivot Biomedical Engineering Ltd.
           company_logo: PivotBME
           company_url: 'https://pivotbme.com/'
           location: Hong Kong
           date_start: '2024-06-01'
-        - title: Research Assistant
-          # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
+        - title: <span style="color:#000000">Research Assistant</span>
           company:  City University of Hong Kong
           company_url: 'https://www.cityu.edu.hk/'
           company_logo: cityu
@@ -115,7 +114,7 @@ sections:
         #   date_start: '2023-03-01'
         #   date_end: ''
         #   description: 
-        - title: Quantitative Strategy Intern
+        - title: <span style="color:#000000">Quantitative Strategy Intern</span>
           company: Prism Private Equity Fund Management Co. LTD
           company_url: 'https://lengjing.fund/'
           company_logo: prism
@@ -123,7 +122,7 @@ sections:
           date_start: '2022-09-01'
           date_end: '2022-12-31'
           description: 
-        - title: Computer Vision Intern
+        - title: <span style="color:#000000">Computer Vision Intern</span>
           company:  HAOMO.AI 
           company_url: 'https://haomo.ai/'
           company_logo: haomo
@@ -131,7 +130,7 @@ sections:
           date_start: '2022-04-01'
           date_end: '2022-08-31'
           description: 
-        - title: Research Assistant
+        - title: <span style="color:#000000">Research Assistant</span>
           company: Chinese Academy of Sciences 
           company_url: ''
           company_logo: CAS
@@ -139,7 +138,7 @@ sections:
           date_start: '2021-10-01'
           date_end: '2022-03-31'
           description: 
-        - title: Research Assistant
+        - title: <span style="color:#000000">Research Assistant</span>
           company: Beijing Institute of Technology
           company_url: ''
           company_logo: bit
@@ -170,7 +169,7 @@ sections:
           description: ''
           organization: IEEE Communications Society
           organization_url: 
-          title: IEEE ComSoc Student Grant
+          title: <span style="color:#000000">IEEE ComSoc Student Grant</span>
           url: ''
         - certificate_url: 
           date_end: ''
@@ -178,7 +177,7 @@ sections:
           description: 'HK$170,000 to cover part of his tuition fees during PhD.'
           organization: City University of Hong Kong
           organization_url: 
-          title: Institutional Research Tuition Grant
+          title: <span style="color:#000000">Institutional Research Tuition Grant</span>
           url: ''
         - certificate_url: 
           date_end: ''
@@ -186,7 +185,7 @@ sections:
           description: 'Around HK$900,000 to support his research and PhD career.'
           organization: The Government of the Hong Kong Special Administrative Region
           organization_url: 
-          title: <span style="">InnoHK Award Funding</span> 
+          title: <span style="color:#000000">InnoHK Award Funding</span> 
           url: ''
         - certificate_url: 
           date_end: ''
@@ -194,7 +193,7 @@ sections:
           description: 'The highest honor for Chinese university students.'
           organization: Ministry of Education of the People's Republic of China
           organization_url: 
-          title: <span style="">National Scholarship</span> 
+          title: <span style="color:#000000">National Scholarship</span> 
           url: ''
         - certificate_url: 
           date_end: ''
@@ -202,7 +201,7 @@ sections:
           description: 
           organization: The China Aerospace Science and Technology Corporation
           organization_url: 
-          title: <span style="">CASC Scholarship, *Top 1%*</span>
+          title: <span style="color:#000000">CASC Scholarship, *Top 1%*</span>
           url: 
         - certificate_url: 
           date_end: '2021-12-21'
@@ -210,7 +209,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="">First Class Academic Scholarship, *4 times*</span>
+          title: <span style="color:#000000">First Class Academic Scholarship, *4 times*</span>
           url: ''
         - certificate_url: 
           date_end: '2021-12-21'
@@ -218,7 +217,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="">Excellent Student of Beijing Institute of Technology, *3 times*</span>
+          title: <span style="color:#000000">Excellent Student of Beijing Institute of Technology, *3 times*</span>
           url: ''
         - certificate_url: 
           date_end: ''
@@ -226,7 +225,7 @@ sections:
           description: ''
           organization: Beijing Institute of Technology
           organization_url: 
-          title: <span style="">Example of Scientific Research Innovation, *Top 1%*</span>
+          title: <span style="color:#000000">Example of Scientific Research Innovation, *Top 1%*</span>
           url: ''
     design:
       columns: '2'
