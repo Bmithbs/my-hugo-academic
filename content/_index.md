@@ -35,13 +35,13 @@ sections:
       title: 🎯 Research
       text: |-
         ## **Collaborative Perception (CP) for Autonomous Driving**
-        - **Collaborative Perception System Design**: Collaborative perception (CP) can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
-        - **Security Issues in Collaborative Perception**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing secure CP systems is crucial.
+        - **CP System Design**: CP can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
+        - **Security Issues in CP**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing defense method is curial for secure CP.
   
 
         ## **Large Language Models (LLMs)**
-        - **Multi-Agent LLM Systems for Autonomous Driving**: I am also interested in building multi-agent LLM systems for collaborative decision-making in autonomous driving. 
-        - **LLM Task Adaptation**: How to adapt pre-trained LLMs to specific tasks, such as collaborative decision-making, better and more efficiently is an interesting topic.
+        - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM is beveraged as a powerful tool to empower the multi-agent collaborative decision-making.
+        - **LLM Task Adaptation**: Adapting pre-trained LLMs to specific tasks, such as collaborative decision-making, better and more efficiently.
 
 
   - block: markdown
