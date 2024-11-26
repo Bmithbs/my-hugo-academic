@@ -34,7 +34,7 @@ sections:
     content:
       title: 🎯 Research
       text: |-
-        ## Collaborative Perception (CP) for Autonomous Driving
+        ## **Collaborative Perception (CP) for Autonomous Driving**
         - **Collaborative Perception System Design**: Collaborative perception (CP) can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
         - **Security Issues in Collaborative Perception**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing secure CP systems is crucial.
   
