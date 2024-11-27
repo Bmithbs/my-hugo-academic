@@ -8,13 +8,13 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 🌏 Biography
+      title: 🌏 **Biography**
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
     id: news
     content:
-      title: 🔥 Latest News
+      title: 🔥 **Latest News**
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
         - **[Nov. 2024]** One paper was accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**, congratulations 🎉!!! [[PDF](https://arxiv.org/abs/2311.16754)]
@@ -32,7 +32,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: 🎯 Research
+      title: 🎯 **Research**
       text: |-
         ## **Collaborative Perception (CP) for Autonomous Driving**
         - **CP System Design**: CP can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
@@ -45,7 +45,7 @@ sections:
   - block: markdown
     id: publications
     content:
-      title: 🎓 Publications
+      title: 🎓 **Publications**
       text: |-
         
         ## **Preprints**
@@ -79,7 +79,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: 🚀 Experiences
+      title: 🚀 **Experiences**
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -151,7 +151,7 @@ sections:
     id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: '🥇 Awards & Honors'
+      title: 🥇 **Awards & Honors**
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -231,7 +231,7 @@ sections:
   - block: markdown
     id: service
     content:
-      title: 💻 Services  
+      title: 💻 **Services**  
       text: |-
         ## **Technical Program Committee**
         - The International Conference on Learning Representations (ICLR'25)
@@ -263,7 +263,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: 🏫 Contact
+      title: 🏫 **Contact**
       subtitle:
       
 

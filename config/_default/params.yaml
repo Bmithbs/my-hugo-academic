@@ -8,7 +8,7 @@
 appearance:
   theme_day: Ocean
   theme_night: apogee
-  font:  Cyberpunk  # Cyberpunk # Minimal # Classic # Rose # Native
+  font:  Rose  # Cyberpunk # Minimal # Classic # Rose # Native
   font_size: m
 
 # SEO
