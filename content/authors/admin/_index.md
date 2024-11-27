@@ -32,9 +32,9 @@ social:
   - icon: google-scholar  # google scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=rtPVwT8AAAAJ
-  - icon: house-user  # 自己的主页链接
-    icon_pack: fas
-    link: https://bmithbs.github.io/
+  # - icon: house-user  # 自己的主页链接
+  #   icon_pack: fas
+  #   link: https://bmithbs.github.io/
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/senkang-hu-3123681b5/
