@@ -18,6 +18,8 @@ role: <b>PhD@CITYU, BEng@BIT</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
+  - name: Wireless Intelligence and Networked Things Laboratory (WINET)
+    url: 'https://jcstemlab.netlify.app/'
   - name: Department of Computer Science, City University of Hong Kong 
     url: 'https://www.cs.cityu.edu.hk/'
   # - name: Homepage  # 写自己的主页链接，如果没有则注释掉
