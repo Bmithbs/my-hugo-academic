@@ -236,11 +236,12 @@ sections:
         ## **Technical Program Committee**
         - The International Conference on Learning Representations (ICLR'25)
         - AAAI Conference on Artificial Intelligence (AAAI'25)
+        - The Conference on Neural Information Processing Systems (NeurIPS'24)
+        - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
         ## **Reviewer**
         - ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)
         - IEEE International Conference on Robotics and Automation (ICRA'25)
-        - The Conference on Neural Information Processing Systems (NeurIPS'24)
-        - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
+
         - IET Information Security
         - IEEE Transactions on Network and Service Management (TNSM)
         - ACM Transactions on Autonomous and Adaptive Systems (TAAS)
