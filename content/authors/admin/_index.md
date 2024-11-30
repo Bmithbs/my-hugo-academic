@@ -18,6 +18,8 @@ role: <b>PhD@CITYUHK, BEng@BIT</b>
 
 # TODO:Organizations/Affiliations 必填
 organizations:
+  - name: JC STEM Lab of Smart City
+    url: 'https://jcstemlab.netlify.app/'
   - name: Wireless Intelligence and Networked Things Laboratory (WINET)
     url: 'https://jcstemlab.netlify.app/'
   - name: Department of Computer Science, City University of Hong Kong 
