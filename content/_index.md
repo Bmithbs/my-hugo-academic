@@ -23,7 +23,7 @@ sections:
         - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant** to support his conference travel.
         - **[Sep. 2024]** Senkang was nominated as a **Program Committee Member** of AAAI'25 and ICLR'25!
         - **[Aug. 2024]** One paper was accepted by **IEEE Transactions on Mobile Computing (TMC)**!
-        - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town 🇿🇦!
+        - **[Jul. 2024]** Two papers were accepted by **GLOBECOM'24**, see you in Cape Town, South Africa 🇿🇦!
         - **[Sep. 2023]** Senkang was awarded the <b>Institutional Research Tuition Grant</b>, nearly HK$170,000.
         - **[Jul. 2023]** Congratulations to Senkang 🎉, finally moved to <b>Hong Kong</b> 🇭🇰🇭🇰🇭🇰 to start his new career!
         - **[Jun. 2023]** Thanks to [**Prof. Fang**](https://www.cs.cityu.edu.hk/~yugufang/)'s strong support, Senkang received the <a href='https://www.innohk.gov.hk/en/about-us/'><b>InnoHK Award Funding</b></a>, around HK$900,000 from the Government of the Hong Kong Special Administrative Region to support his research and PhD career. 
