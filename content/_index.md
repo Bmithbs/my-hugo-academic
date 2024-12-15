@@ -12,6 +12,19 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
+    id: research
+    content:
+      title: 🎯 **Research**
+      text: |-
+        ## **Collaborative Perception (CP) for Autonomous Driving**
+        - **CP System Design**: CP can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
+        - **Security Issues in CP**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing defense method is curial for secure CP.
+  
+
+        ## **Large Language Models (LLMs)**
+        - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
+        - **LLM Task Adaptation**: Adapting pre-trained LLMs to specific tasks, such as collaborative decision-making, better and more efficiently.
+  - block: markdown
     id: news
     content:
       title: 🔥 **Latest News**
@@ -30,24 +43,13 @@ sections:
         - **[Dec. 2021]** Senkang was awarded the **National Scholarship** for his top 1% academic performance in the whole department, which is the highest honor for Chinese university students.
     design:
       columns: '1'
-  - block: markdown
-    id: research
-    content:
-      title: 🎯 **Research**
-      text: |-
-        ## **Collaborative Perception (CP) for Autonomous Driving**
-        - **CP System Design**: CP can overcome the limitations of single-agent perception systems, such as occlusion and sensing range, by leveraging the information from multiple vehicles.
-        - **Security Issues in CP**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing defense method is curial for secure CP.
   
-
-        ## **Large Language Models (LLMs)**
-        - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
-        - **LLM Task Adaptation**: Adapting pre-trained LLMs to specific tasks, such as collaborative decision-making, better and more efficiently.
   - block: markdown
     id: publications
     content:
       title: 🎓 **Publications**
       text: |-
+        <sup>#</sup>equal contribution, *corresponding author.
         
         ## **Preprints**
         1. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Robost Agent Detection in Collaborative Perception."
@@ -66,7 +68,7 @@ sections:
         11. **[GLOBECOM'24]** Zhengru Fang, **<u>Senkang "Forest" Hu</u>**, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2408.17047), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
         12. **[TMC'24]** Zhengru Fang, **<u>Senkang "Forest" Hu</u>**, Haonan An, Yuang Zhang, Jingjing Wang, Hangcheng Cao, Xianhao Chen, Yuguang Fang. "PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles." *IEEE Transactions on Moblie Computing.* [[PDF](https://arxiv.org/abs/2404.06891)]
         
-        <sup>#</sup>equal contribution, *corresponding author.
+        
 
         
 
