@@ -17,7 +17,6 @@ sections:
       title: 🔥 **Latest News**
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
-        - **[Dec. 2024]** Senkang was nominated as a **Program Committee Member** of ICML'25!
         - **[Dec. 2024]** Congratulations 🎉! One paper was accepted by **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)**, see you in Philadelphia, Pennsylvania, USA 🇺🇸!
         - **[Nov. 2024]** One paper was accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**, congratulations 🎉!!! [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
         - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant** to support his conference travel.
