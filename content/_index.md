@@ -30,7 +30,7 @@ sections:
       title: 🔥 **Latest News**
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
-        - **[Dec. 2024]** Congratulations 🎉! One paper was accepted by **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)**, see you in Philadelphia, Pennsylvania, USA 🇺🇸!
+        - **[Dec. 2024]** Congratulations 🎉! One paper was accepted by **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)**, see you in Philadelphia, Pennsylvania, USA 🇺🇸! [[PDF](https://arxiv.org/abs/2412.12000)]
         - **[Nov. 2024]** One paper was accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**, congratulations 🎉!!! [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
         - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant** to support his conference travel.
         - **[Sep. 2024]** Senkang was nominated as a **Program Committee Member** of AAAI'25 and ICLR'25!
@@ -62,7 +62,7 @@ sections:
 
         ## **Accepted Papers in 2024**
 
-        8. **[AAAI'25]** **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yihang Tao<sup>#</sup>, Guowen Xu, Yiqin Deng, Xianhao Chen,  Yuguang Fang, Sam Kwong. "CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception." *The 39th Annual AAAI Conference on Artificial Intelligence*, Philadelphia, Pennsylvania, USA, February 2025.
+        8. **[AAAI'25]** **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yihang Tao<sup>#</sup>, Guowen Xu, Yiqin Deng, Xianhao Chen,  Yuguang Fang, Sam Kwong. "CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception." *The 39th Annual AAAI Conference on Artificial Intelligence*, Philadelphia, Pennsylvania, USA, February 2025. [[PDF](https://arxiv.org/abs/2412.12000)]
         9.  **[TITS'24]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Toward Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." *IEEE Transactions on Intelligent Transportation Systems.* [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
         10. **[GLOBECOM'24]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Haonan An, Guowen Xu, Yuan Zhou, Xianhao Chen, and Yuguang Fang. "Adaptive Communications in Collaborative Perception with Domain Alignment for Autonomous Driving", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2310.00013)]
         11. **[GLOBECOM'24]** Zhengru Fang, **<u>Senkang "Forest" Hu</u>**, Yuguang Fang, et al. "PIB: Prioritized Information Bottleneck Framework for Collaborative Edge Video Analytics", *IEEE Global Communications Conference*, Cape Town, South Africa, December 2024. [[PDF](https://arxiv.org/abs/2408.17047), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)] 
