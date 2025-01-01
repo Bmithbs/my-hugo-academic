@@ -60,6 +60,7 @@ sections:
         5. **[Preprint]** Yihang Tao, **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". [[PDF](https://arxiv.org/abs/2409.08840)]
         6. **[Preprint]** Zihan Fang, Zheng Lin, **<u>Senkang "Forest" Hu</u>**, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers." [[PDF](https://arxiv.org/abs/2410.02592)]
 
+        ## **Accepted Papers in 2025**
         ## **Accepted Papers in 2024**
 
         7. **[AAAI'25]** **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yihang Tao<sup>#</sup>, Guowen Xu, Yiqin Deng, Xianhao Chen,  Yuguang Fang, Sam Kwong. "CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception." *The 39th Annual AAAI Conference on Artificial Intelligence*, Philadelphia, Pennsylvania, USA, February 2025. [[PDF](https://arxiv.org/abs/2412.12000)]
