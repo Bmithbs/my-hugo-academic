@@ -240,8 +240,6 @@ sections:
         - The 42nd International Conference on Machine Learning (ICML'25)
         - The 13th International Conference on Learning Representations (ICLR'25)
         - The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)
-        - The Conference on Neural Information Processing Systems (NeurIPS'24)
-        - The Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
         ## **Reviewer**
         - ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)
         - IEEE International Conference on Robotics and Automation (ICRA'25)
