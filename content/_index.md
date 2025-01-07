@@ -21,9 +21,9 @@ sections:
         - **Security Issues in CP**: As CP needs to leverage the information from other vehicles, it expands the system's attack surface. Therefore, designing defense method is curial for secure CP.
   
 
-        ## **Large Language Models (LLMs)**
-        - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
-        - **LLM Task Adaptation**: Adapting pre-trained LLMs to specific tasks, such as collaborative decision-making, better and more efficiently.
+        ## **Foundation Models (LLM, VLM, Agent)**
+        - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM/VLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
+        - **Large Models (LMs) Task Adaptation**: Adapting pre-trained LMs to specific tasks, such as collaborative decision-making, better and more efficiently.
   - block: markdown
     id: news
     content:
