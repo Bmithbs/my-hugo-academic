@@ -22,8 +22,8 @@ sections:
   
 
         ## **Foundation Models (LLM, VLM, Agent)**
-        - **Multi-Agent LLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM/VLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
-        - **Large Models (LMs) Task Adaptation**: Adapting pre-trained LMs to specific tasks, such as collaborative decision-making, better and more efficiently.
+        - **Multi-Agent LLM/VLM Systems for Autonomous Driving**: Similar as CP, not only multi-agent perception but also multi-agent collaborative decision-making is important for next-generation autonomous driving. Here, LLM/VLM is leveraged as a powerful tool to build the multi-agent collaborative decision-making systems.
+        - **Large Pre-trained Models Task Adaptation**: Adapting pre-trained LMs to specific tasks, such as collaborative decision-making, better and more efficiently.
   - block: markdown
     id: news
     content:
