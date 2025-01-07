@@ -79,76 +79,76 @@ sections:
     design:
       columns: '1'
       # view: citation
-  - block: experience
-    id: experience
-    content:
-      title: 🚀 **Experiences**
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: <span style="color:#000000">Co-Founder & CTO</span>
-          company: Pivot Biomedical Engineering Ltd.
-          company_logo: PivotBME
-          company_url: 'https://pivotbme.com/'
-          location: Hong Kong
-          date_start: '2024-06-01'
-        - title: <span style="color:#000000">Research Assistant</span>
-          company:  City University of Hong Kong
-          company_url: 'https://www.cityu.edu.hk/'
-          company_logo: cityu
-          location: Hong Kong
-          date_start: '2023-07-01'
-          date_end: '2023-12-31'
-          description: 
-        # - title: Founder & CEO
-        #   # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
-        #   company:  Beyond Future.AI
-        #   company_url: ''
-        #   company_logo: bf
-        #   location: Beijing
-        #   date_start: '2023-03-01'
-        #   date_end: ''
-        #   description: 
-        - title: <span style="color:#000000">Quantitative Strategy Intern</span>
-          company: Prism Private Equity Fund Management Co. LTD
-          company_url: 'https://lengjing.fund/'
-          company_logo: prism
-          location: Beijing
-          date_start: '2022-09-01'
-          date_end: '2022-12-31'
-          description: 
-        - title: <span style="color:#000000">Computer Vision Intern</span>
-          company:  HAOMO.AI 
-          company_url: 'https://haomo.ai/'
-          company_logo: haomo
-          location: Beijing
-          date_start: '2022-04-01'
-          date_end: '2022-08-31'
-          description: 
-        - title: <span style="color:#000000">Research Assistant</span>
-          company: Chinese Academy of Sciences 
-          company_url: ''
-          company_logo: CAS
-          location: Beijing
-          date_start: '2021-10-01'
-          date_end: '2022-03-31'
-          description: 
-        - title: <span style="color:#000000">Research Assistant</span>
-          company: Beijing Institute of Technology
-          company_url: ''
-          company_logo: bit
-          location: Beijing
-          date_start: '2020-03-01'
-          date_end: '2021-10-31'
-          description: 
-    design:
-      columns: '2'
+  # - block: experience
+  #   id: experience
+  #   content:
+  #     title: 🚀 **Experiences**
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: <span style="color:#000000">Co-Founder & CTO</span>
+  #         company: Pivot Biomedical Engineering Ltd.
+  #         company_logo: PivotBME
+  #         company_url: 'https://pivotbme.com/'
+  #         location: Hong Kong
+  #         date_start: '2024-06-01'
+  #       - title: <span style="color:#000000">Research Assistant</span>
+  #         company:  City University of Hong Kong
+  #         company_url: 'https://www.cityu.edu.hk/'
+  #         company_logo: cityu
+  #         location: Hong Kong
+  #         date_start: '2023-07-01'
+  #         date_end: '2023-12-31'
+  #         description: 
+  #       # - title: Founder & CEO
+  #       #   # company: <b><span style="color:#0096FF">BeyondFuture.AI</span></b>
+  #       #   company:  Beyond Future.AI
+  #       #   company_url: ''
+  #       #   company_logo: bf
+  #       #   location: Beijing
+  #       #   date_start: '2023-03-01'
+  #       #   date_end: ''
+  #       #   description: 
+  #       - title: <span style="color:#000000">Quantitative Strategy Intern</span>
+  #         company: Prism Private Equity Fund Management Co. LTD
+  #         company_url: 'https://lengjing.fund/'
+  #         company_logo: prism
+  #         location: Beijing
+  #         date_start: '2022-09-01'
+  #         date_end: '2022-12-31'
+  #         description: 
+  #       - title: <span style="color:#000000">Computer Vision Intern</span>
+  #         company:  HAOMO.AI 
+  #         company_url: 'https://haomo.ai/'
+  #         company_logo: haomo
+  #         location: Beijing
+  #         date_start: '2022-04-01'
+  #         date_end: '2022-08-31'
+  #         description: 
+  #       - title: <span style="color:#000000">Research Assistant</span>
+  #         company: Chinese Academy of Sciences 
+  #         company_url: ''
+  #         company_logo: CAS
+  #         location: Beijing
+  #         date_start: '2021-10-01'
+  #         date_end: '2022-03-31'
+  #         description: 
+  #       - title: <span style="color:#000000">Research Assistant</span>
+  #         company: Beijing Institute of Technology
+  #         company_url: ''
+  #         company_logo: bit
+  #         location: Beijing
+  #         date_start: '2020-03-01'
+  #         date_end: '2021-10-31'
+  #         description: 
+  #   design:
+  #     columns: '2'
 
   - block: accomplishments
     id: awards
