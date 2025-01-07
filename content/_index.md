@@ -177,6 +177,7 @@ sections:
           date_end: ''
           date_start: '2023-09-15'
           description: 'HK$170,000 to cover part of his tuition fees during PhD.'
+          icon: cityu
           organization: City University of Hong Kong
           organization_url: 
           title: <span style="color:#000000">Institutional Research Tuition Grant</span>
