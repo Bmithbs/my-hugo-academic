@@ -243,6 +243,7 @@ sections:
         - The 13th International Conference on Learning Representations (ICLR'25)
         - The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)
         ## **Reviewer**
+        - IEEE Transactions on Intelligent Transportation Systems (TITS)
         - ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)
         - IEEE International Conference on Robotics and Automation (ICRA'25)
         - IET Information Security
