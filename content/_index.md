@@ -50,20 +50,21 @@ sections:
     id: publications
     content:
       title: 🎓 **Publications**
-      text: |-
+      text: |-       
         <sup>#</sup>equal contribution, *corresponding author.
         
+        
         ## **Preprints**
-        1. **[Preprint]** Yihang Tao<sup>#</sup>, **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yue Hu, Haonan An, Hangcheng Cao, Yuguang Fang. "GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection." [[PDF](https://arxiv.org/abs/2501.02450)]
-        2. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Robost Agent Detection in Collaborative Perception."
-        3.  **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
+        1. **[Preprint]** Yihang Tao<sup>#</sup>, **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yue Hu, Haonan An, Hangcheng Cao, Yuguang Fang. "GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection." [[PDF](https://arxiv.org/abs/2501.02450)]  
+        2. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Yihang Tao, Yuguang Fang, et al. "Robost Agent Detection in Collaborative Perception." [[PDF](https://arxiv.org/abs/2501.02450)]
+        3. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
         4. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345), [Blog](https://mp.weixin.qq.com/s/HVfs4-PT58WujCvEZZboug)]
         5. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
         6. **[Preprint]** Yihang Tao, **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". [[PDF](https://arxiv.org/abs/2409.08840)]
         7. **[Preprint]** Zihan Fang, Zheng Lin, **<u>Senkang "Forest" Hu</u>**, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers." [[PDF](https://arxiv.org/abs/2410.02592)]
 
         ## **Accepted Papers in 2025**
-        ## **Accepted Papers in 2024**
+        ## **Accepted Papers in 2024** 
 
         8. **[AAAI'25 Oral]** **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yihang Tao<sup>#</sup>, Guowen Xu, Yiqin Deng, Xianhao Chen,  Yuguang Fang, Sam Kwong. "CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception." *The 39th Annual AAAI Conference on Artificial Intelligence*, Philadelphia, Pennsylvania, USA, February 2025. (**Oral Presentation, acceptance rate 5%**) [[PDF](https://arxiv.org/abs/2412.12000)]
         9.  **[TITS'24]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, and Sam Kwong. "Toward Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving." *IEEE Transactions on Intelligent Transportation Systems.* [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
