@@ -259,9 +259,9 @@ sections:
         - Proceedings of the IEEE
         - etc......
         ## **Teaching Assistant**
+        - Cloud Computing, 2025 Spring
         - Computer Networks, 2024 Fall
         - Cloud Computing: Theory and Practice, 2024 Spring
-        - 
 
         
 
