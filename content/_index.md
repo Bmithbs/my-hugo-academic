@@ -173,7 +173,7 @@ sections:
           description: ''
           organization: IEEE Communications Society
           organization_url: 
-          title: <span style="color:#000000">IEEE ComSoc Student Grant</span>
+          title: <span style="color:#000000">IEEE ComSoc Student Travel Grant</span>
           url: ''
         - certificate_url: 
           date_end: ''
@@ -245,6 +245,7 @@ sections:
         - The 13th International Conference on Learning Representations (ICLR'25)
         - The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)
         ## **Reviewer**
+        - IEEE/ACM Transactions on Networking (ToN)
         - IEEE Transactions on Intelligent Transportation Systems (TITS)
         - ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)
         - IEEE International Conference on Robotics and Automation (ICRA'25)
