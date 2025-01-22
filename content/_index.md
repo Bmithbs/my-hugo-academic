@@ -31,7 +31,7 @@ sections:
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
         - **[Jan. 2025]** Our paper accepted by AAAI'25 was selected for **Oral Presentation**! Congratulations again 🎉!
-        - **[Dec. 2024]** One paper was accepted by **IEEE/ACM Transactions on Networking (ToN)**! [[PDF](https://arxiv.org/abs/2409.00146), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
+        - **[Dec. 2024]** One paper was accepted by **IEEE/ACM Transactions on Networking (ToN)**! [[PDF](https://ieeexplore.ieee.org/document/10845862), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
         - **[Dec. 2024]** Congratulations 🎉! One paper was accepted by **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)**, see you in Philadelphia, Pennsylvania, USA 🇺🇸! [[PDF](https://arxiv.org/abs/2412.12000)]
         - **[Nov. 2024]** One paper was accepted by **IEEE Transactions on Intelligent Transportation Systems (TITS)**, congratulations 🎉!!! [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
         - **[Nov. 2024]** Senkang was awarded the **IEEE ComSoc Student Grant** to support his conference travel.
