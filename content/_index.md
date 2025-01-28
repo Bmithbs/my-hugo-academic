@@ -30,6 +30,7 @@ sections:
       title: 🔥 **Latest News**
       # - **[Dec. 2023]** The paper <a href='publication/dg-coperception-magazine'>Collaborative Perception for Autonomous Driving: Challenges, Countermeasures and Opportunities</a> was submitted to *IEEE Communications Magazine (**COMMAG**)*.
       text: |-
+        - **[Jan. 2025]** One paper was accepted by **the 2025 IEEE International Conference on Robotics and Automation (ICRA'25)**! [[PDF](https://arxiv.org/abs/2409.08840)]
         - **[Jan. 2025]** Our paper accepted by AAAI'25 was selected for **Oral Presentation**! Congratulations again 🎉!
         - **[Dec. 2024]** One paper was accepted by **IEEE/ACM Transactions on Networking (ToN)**! [[PDF](https://ieeexplore.ieee.org/document/10845862), [Code](https://github.com/fangzr/PIB-Prioritized-Information-Bottleneck-Framework)]
         - **[Dec. 2024]** Congratulations 🎉! One paper was accepted by **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)**, see you in Philadelphia, Pennsylvania, USA 🇺🇸! [[PDF](https://arxiv.org/abs/2412.12000)]
@@ -60,10 +61,12 @@ sections:
         3. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. "AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Multi-Lane Merging." [[PDF](https://arxiv.org/abs/2408.03624)]
         4. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang. "AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning." [[PDF](https://arxiv.org/abs/2404.06345), [Blog](https://mp.weixin.qq.com/s/HVfs4-PT58WujCvEZZboug)]
         5. **[Preprint]** **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yiqin Deng, Xianhao Chen, Yuguang Fang. "Collaborative Perception for Autonomous Driving: Challenges, Possible Solutions and Opportunities." [[PDF](https://arxiv.org/abs/2401.01544)]
-        6. **[Preprint]** Yihang Tao, **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". [[PDF](https://arxiv.org/abs/2409.08840)]
-        7. **[Preprint]** Zihan Fang, Zheng Lin, **<u>Senkang "Forest" Hu</u>**, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers." [[PDF](https://arxiv.org/abs/2410.02592)]
+        6. **[Preprint]** Zihan Fang, Zheng Lin, **<u>Senkang "Forest" Hu</u>**, Hangcheng Cao, Xianhao Chen, and Yuguang Fang. "IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers." [[PDF](https://arxiv.org/abs/2410.02592)]
 
         ## **Accepted Papers in 2025**
+
+        7. **[ICRA'25]** Yihang Tao, **<u>Senkang "Forest" Hu</u>**, Zhengru Fang, Yuguang Fang. "Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention". *The 2025 IEEE International Conference on Robotics & Automation*, 19–23 May, Atlanta, USA. [[PDF](https://arxiv.org/abs/2409.08840)]
+
         ## **Accepted Papers in 2024** 
 
         8. **[AAAI'25 Oral]** **<u>Senkang "Forest" Hu</u>**<sup>#</sup>, Yihang Tao<sup>#</sup>, Guowen Xu, Yiqin Deng, Xianhao Chen,  Yuguang Fang, Sam Kwong. "CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception." *The 39th Annual AAAI Conference on Artificial Intelligence*, Philadelphia, Pennsylvania, USA, February 2025. (**Oral Presentation**) [[PDF](https://arxiv.org/abs/2412.12000)]
